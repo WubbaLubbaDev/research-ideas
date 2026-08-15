@@ -20,3 +20,4 @@ Build a Socratic AI tutor for Indonesian students preparing for university entra
 
 ## Cross-links
 - [[2026-08-16_stanford-cs007]] — both are educational resources; one teaches finance, the other explores AI tutoring
+- [[2026-08-15_future-of-work-ai-agents]] — both study how AI agents should interact with humans in educational/work contexts

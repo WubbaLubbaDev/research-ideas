@@ -22,3 +22,6 @@ Adapt this DSS for Indonesian palm oil policy — Indonesia is the world's large
 ## Cross-links
 - [[2026-08-16_PortfolioU-cpo-futures]] — both involve palm oil trading/economics — one for policy, the other for futures
 - [[2026-08-16_problem-with-palm-oil]] — both address sustainability and policy challenges in palm oil
+- [[2026-08-15_aws-indonesia-palm-oil-eudr]] — both address palm oil policy and regulatory compliance
+- [[2026-08-15_aws-indonesia-palm-oil-trading]] — both address palm oil market analysis and trading decisions
+- [[2026-08-15_eudr-impact-argentina]] — both address palm oil policy and regulatory compliance frameworks

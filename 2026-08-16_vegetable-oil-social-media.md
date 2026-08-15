@@ -21,3 +21,4 @@ Build a real-time social media sentiment monitor for palm oil-related discussion
 
 ## Cross-links
 *None this run.*
+- [[2026-08-15_palm-oil-alternative-rainforests]] — both involve the vegetable oil sustainability debate

@@ -24,3 +24,5 @@ Use this curated list as a foundation to build an Indonesian-specific systematic
 - [[2026-08-16_OpenBB]] — both serve as infrastructure/resources for systematic trading
 - [[2026-08-16_StockSharp]] — both are resources for algorithmic trading
 - [[2026-08-16_FinRL]] — both support building systematic trading systems
+- [[2026-08-15_luxalgo-mcp-server]] — both provide technical analysis resources for trading
+- [[2026-08-15_FinRL-X]] — both are systematic trading infrastructure projects

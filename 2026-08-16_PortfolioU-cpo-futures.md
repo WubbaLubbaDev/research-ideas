@@ -23,3 +23,4 @@ Adapt this CPO futures trading system for the Indonesian derivatives market (BKD
 ## Cross-links
 - [[2026-08-16_PalmPolicy-DSS]] — both involve palm oil economics — one for futures trading, the other for tariff policy
 - [[2026-08-16_vegetable-oil-social-media]] — both involve palm oil market dynamics and perception
+- [[2026-08-15_aws-indonesia-palm-oil-trading]] — both involve CPO trading intelligence and price forecasting

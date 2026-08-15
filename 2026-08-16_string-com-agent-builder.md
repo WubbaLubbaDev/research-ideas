@@ -22,3 +22,5 @@ Build a similar meta-agent platform tailored for Indonesian business needs — g
 - [[2026-08-16_langflow]] — both are tools for building AI agents
 - [[2026-08-16_awesome-ai-agents-2026]] — both catalog/build AI agent tools
 - [[2026-08-16_manus-general-agent]] — both are in the AI agent creation/deployment space
+- [[2026-08-15_kodey-ai-agent-platform]] — both are platforms for building AI agents without coding
+- [[2026-08-15_agentos-multi-agent-platform]] — both are platforms for managing multiple AI agents

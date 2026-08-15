@@ -22,3 +22,4 @@ Build an educational interactive tool for Indonesian policymakers and consumers 
 
 ## Cross-links
 *None this run.*
+- [[2026-08-15_palm-oil-alternative-rainforests]] — both examine the environmental paradox of palm oil

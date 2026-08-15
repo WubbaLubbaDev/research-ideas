@@ -24,3 +24,4 @@ Build a similar financial projection tool for Indonesian users with local assump
 - [[2026-08-16_peek-ai-finance]] — both help users understand and plan their finances
 - [[2026-08-16_stanford-cs007]] — both address financial planning and literacy
 - [[2026-08-16_amigo-ai-finance]] — both are personal finance management platforms
+- [[2026-08-15_paisa-personal-finance]] — both are personal finance tools featured on HN

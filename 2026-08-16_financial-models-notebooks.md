@@ -24,3 +24,5 @@ Use these notebooks as the foundation for a quant finance course or toolkit adap
 - [[2026-08-16_awesome-systematic-trading]] — both are curated resources for quant trading
 - [[2026-08-16_OpenBB]] — both provide infrastructure for quant practitioners
 - [[2026-08-16_calibration-bets-quantization]] — both involve numerical methods for financial modeling
+- [[2026-08-15_stop-using-excel-finance]] — both address alternatives to Excel for financial modeling
+- [[2026-08-15_ml-computational-finance-review]] — both cover computational finance methods

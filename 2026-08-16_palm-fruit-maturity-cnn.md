@@ -21,3 +21,4 @@ Build a mobile app for Indonesian harvesters that uses phone-camera CNN to asses
 
 ## Cross-links
 *None this run.*
+- [[2026-08-15_aws-indonesia-palm-oil-precision-ag]] — both involve AI for palm oil agriculture optimization

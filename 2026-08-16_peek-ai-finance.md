@@ -24,3 +24,4 @@ Build an Indonesian-language AI finance coach integrated with local e-wallets (G
 - [[2026-08-16_projectionlab]] — both help users understand and plan their finances
 - [[2026-08-16_amigo-ai-finance]] — both are AI-powered personal finance coaches
 - [[2026-08-16_marx-finance]] — both use AI for financial decision-making
+- [[2026-08-15_paisa-personal-finance]] — both are personal finance management tools

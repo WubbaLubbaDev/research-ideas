@@ -25,3 +25,7 @@ Build a lightweight version of this multi-agent framework for retail traders in 
 - [[2026-08-16_qlib]] — both are AI/ML frameworks for quantitative trading
 - [[2026-08-16_AlphaSchema-alpha-mining]] — both use LLMs for trading factor/strategy discovery
 - [[2026-08-16_llm-small-cap-trading]] — both apply LLMs to financial trading signal extraction
+- [[2026-08-15_Finance-mcp]] — both connect AI agents to financial market execution
+- [[2026-08-15_stock-trading-team-skill]] — both use multi-agent role-based architectures for trading
+- [[2026-08-15_alphacrafter-multi-agent]] — both use multi-agent frameworks for financial trading
+- [[2026-08-15_agentos-multi-agent-platform]] — both orchestrate multiple AI agents for financial applications

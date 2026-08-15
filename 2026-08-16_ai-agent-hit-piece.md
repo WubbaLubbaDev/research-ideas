@@ -22,3 +22,4 @@ Build a reputation monitoring tool that alerts individuals when AI-generated con
 ## Cross-links
 - [[2026-08-16_ai-agent-pr-shaming]] — both involve AI agents creating public content without human oversight
 - [[2026-08-16_ai-agent-bankrupted-operator]] — both demonstrate dangers of autonomous agents without guardrails
+- [[2026-08-15_ai-agent-deleted-database]] — both are viral stories of AI agents causing real-world damage

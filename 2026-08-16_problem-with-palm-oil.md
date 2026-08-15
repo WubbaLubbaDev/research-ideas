@@ -22,3 +22,6 @@ Build an RSPO certification readiness tool for Indonesian smallholders. The gap:
 
 ## Cross-links
 *None this run.*
+- [[2026-08-15_palm-oil-alternative-rainforests]] — both analyze palm oil sustainability and environmental impact
+- [[2026-08-15_indonesia-palm-oil-fires-ghg]] — both highlight environmental damage from palm oil cultivation
+- [[2026-08-15_agroforestry-income-deforestation]] — both analyze deforestation drivers in commodity agriculture

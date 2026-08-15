@@ -20,3 +20,4 @@ Build an options analysis tool for IDX — Indonesian options market is nascent 
 
 ## Cross-links
 - [[2026-08-16_regime-gated-volatility]] — both relate to options pricing and volatility forecasting
+- [[2026-08-15_intellectia-ai-trading]] — both are stock trading platforms on Product Hunt

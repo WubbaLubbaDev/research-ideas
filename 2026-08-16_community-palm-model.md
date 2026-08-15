@@ -20,3 +20,5 @@ Integrate this community palm model with Indonesian satellite imagery (LAPAN, Pl
 
 ## Cross-links
 *None this run.*
+- [[2026-08-15_aws-indonesia-palm-oil-traceability]] — both track land cover dynamics in palm oil supply chains
+- [[2026-08-15_oil-palm-mapping-time-series]] — both map oil palm land cover dynamics

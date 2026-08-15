@@ -21,3 +21,4 @@ Apply game-theoretic investor interaction models to IDX, where retail dominance 
 ## Cross-links
 - [[2026-08-16_financial-network-balance]] — both model complex interactions in financial markets
 - [[2026-08-16_Stock-Prediction-Models]] — both forecast stock prices using advanced methods
+- [[2026-08-15_alphacrafter-multi-agent]] — both model cross-sectional stock interactions

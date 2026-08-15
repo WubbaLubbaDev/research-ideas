@@ -21,3 +21,6 @@ Build an AI chart analysis tool specifically for IDX stocks with Indonesian-lang
 ## Cross-links
 - [[2026-08-16_RAFA-ai-investing]] — both are AI-powered retail trading/investing tools
 - [[2026-08-16_Stock-Prediction-Models]] — both apply AI to stock analysis
+- [[2026-08-15_AlphaTrading-ai-platform]] — both are AI-powered trading platforms with dashboards
+- [[2026-08-15_fere-ai-trading-signals]] — both provide AI-driven trading signals and setups
+- [[2026-08-15_intellectia-ai-trading]] — both are AI trading companions providing market insights

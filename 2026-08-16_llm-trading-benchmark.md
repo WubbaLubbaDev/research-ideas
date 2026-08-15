@@ -22,3 +22,6 @@ Use this benchmark methodology to properly evaluate LLM trading agents on IDX da
 - [[2026-08-16_llm-small-cap-trading]] — both evaluate LLM-based trading on stock markets
 - [[2026-08-16_llm-stock-investing-human-factor]] — both evaluate LLM stock prediction quality
 - [[2026-08-16_AlphaSchema-alpha-mining]] — both involve LLM-based trading systems
+- [[2026-08-15_llm-agent-trader]] — both involve LLM-based trading agent evaluation and backtesting
+- [[2026-08-15_strat-llm-trading]] — both evaluate LLM-based trading agents across market conditions
+- [[2026-08-15_ai-agent-reliability-science]] — both address reliability and evaluation of LLM agents in high-stakes tasks

@@ -23,3 +23,4 @@ Use Agent S as the foundation for a computer-use agent that automates Indonesian
 ## Cross-links
 - [[2026-08-16_system-prompts-ai-tools]] — both reveal how production AI agents are configured and operated
 - [[2026-08-16_manus-general-agent]] — both are general-purpose autonomous agents for real-world tasks
+- [[2026-08-15_moli-browser]] — both provide agent-native interfaces for web/computer interaction

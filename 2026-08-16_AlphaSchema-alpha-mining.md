@@ -22,3 +22,4 @@ Apply AlphaSchema's approach to Indonesian market factors — IDX has unique alp
 - [[2026-08-16_llm-small-cap-trading]] — both use LLMs for trading signal discovery
 - [[2026-08-16_llm-trading-benchmark]] — both involve LLM-based trading systems
 - [[2026-08-16_TradingAgents]] — both use LLM agents for trading
+- [[2026-08-15_alphacrafter-multi-agent]] — both involve LLM-guided alpha factor mining for trading

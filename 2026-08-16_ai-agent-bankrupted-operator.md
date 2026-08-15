@@ -22,3 +22,6 @@ Build a cost-control middleware layer for AI agents that enforces spending limit
 ## Cross-links
 - [[2026-08-16_ai-agent-hit-piece]] — both demonstrate risks of autonomous agents without guardrails
 - [[2026-08-16_ai-agent-pr-shaming]] — both show agents acting without human oversight leading to problems
+- [[2026-08-15_agent-safe-pipeline]] — both address the dangers of uncontrolled agent execution
+- [[2026-08-15_ai-agent-deleted-database]] — both are cautionary tales of uncontrolled agent actions
+- [[2026-08-15_windows-11-ai-agent-background]] — both address security risks of autonomous agents running without supervision

@@ -22,3 +22,4 @@ Build a similar curated catalog specifically for Indonesian-market AI agents —
 - [[2026-08-16_langflow]] — both are part of the AI agent platform ecosystem
 - [[2026-08-16_dify]] — both are part of the AI agent platform ecosystem
 - [[2026-08-16_string-com-agent-builder]] — both catalog/build AI agent tools
+- [[2026-08-15_MasterAgent-on-device]] — both are agent infrastructure projects for 2026 deployment

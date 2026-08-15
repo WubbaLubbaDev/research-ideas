@@ -23,3 +23,4 @@ Integrate MOPAD's tree-level monitoring with SawitPRO's existing GPS plot regist
 - [[2026-08-16_MADAN-oil-palm-counting]] — both use computer vision on aerial/drone imagery for oil palm tree monitoring
 - [[2026-08-16_dreamfly-aerial-navigation]] — both use drones for aerial monitoring in agricultural contexts
 - [[2026-08-16_triggernet-red-palm-mite]] — both use computer vision for palm tree health assessment
+- [[2026-08-15_oil-palm-mapping-time-series]] — both use remote sensing for oil palm monitoring

@@ -21,3 +21,4 @@ Apply PTQ techniques to deploy quant trading models on edge devices or low-cost 
 ## Cross-links
 - [[2026-08-16_regime-gated-volatility]] — both address production deployment of financial ML models
 - [[2026-08-16_financial-models-notebooks]] — both involve numerical methods for financial forecasting
+- [[2026-08-15_ml-computational-finance-review]] — both address ML model deployment in finance

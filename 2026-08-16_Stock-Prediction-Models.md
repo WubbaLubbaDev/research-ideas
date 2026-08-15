@@ -23,3 +23,5 @@ Use this repo as a starting point for benchmarking ML models on Indonesian stock
 - [[2026-08-16_FinRL]] — both apply ML/DL to stock price prediction
 - [[2026-08-16_llm-stock-investing-human-factor]] — both evaluate ML approaches to stock prediction
 - [[2026-08-16_game-theoretic-stock-forecasting]] — both forecast stock prices using advanced methods
+- [[2026-08-15_ml-computational-finance-review]] — both survey ML/DL approaches for financial forecasting
+- [[2026-08-15_generating-alpha-hybrid-ai]] — both use ML/DL for stock price forecasting

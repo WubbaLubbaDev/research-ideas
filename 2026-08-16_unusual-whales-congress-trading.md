@@ -22,3 +22,5 @@ Build a similar tracker for Indonesian government officials and DPR members who 
 ## Cross-links
 - [[2026-08-16_pelosi-lawmaker-trading]] — both track lawmaker/politician stock trading and transparency
 - [[2026-08-16_trump2cash]] — both involve political figures impacting stock trading
+- [[2026-08-15_tiktokers-copy-congress-trading]] — both track and surface US Congress stock trading activity
+- [[2026-08-15_house-dems-lawmaker-trading-ban]] — both relate to Congress stock trading regulation

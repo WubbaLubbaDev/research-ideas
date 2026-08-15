@@ -21,3 +21,4 @@ Deploy a similar IoT monitoring system for Indonesian smallholder plots that cur
 
 ## Cross-links
 *None this run.*
+- [[2026-08-15_aws-indonesia-palm-oil-precision-ag]] — both use IoT for palm oil plantation monitoring
