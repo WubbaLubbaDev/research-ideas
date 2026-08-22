@@ -19,3 +19,4 @@ Authors: Yijia Shao, Erik Brynjolfsson, Diyi Yang et al. (Stanford) | 1,500 doma
 ## Cross-links
 - [[2026-08-16_llm-tutor-socratic]] — both study how AI agents should interact with humans in educational/work contexts
 - [[2026-08-16_rsm-agent-software-dev]] — both study agent roles in the future of work
+- [[2026-08-22_agentic-travel-weather]] — Both study how AI agents augment real-world work and decision processes

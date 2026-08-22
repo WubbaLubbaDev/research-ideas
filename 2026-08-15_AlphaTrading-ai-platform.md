@@ -19,3 +19,4 @@ Stars: 1 | Language: TypeScript | Full-stack with AI market insights, virtual tr
 ## Cross-links
 - [[2026-08-16_StockSharp]] — both are full-stack trading platforms with algorithmic capabilities
 - [[2026-08-16_Kai-ai-trading-wizard]] — both are AI-powered trading platforms with dashboards
+- [[2026-08-22_definn-fintech-app]] — Both are unified fintech apps combining multiple asset classes

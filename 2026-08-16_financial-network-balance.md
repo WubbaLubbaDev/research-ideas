@@ -21,3 +21,4 @@ Build a signed network model of Indonesian stock market sectors — IDX has stro
 ## Cross-links
 - [[2026-08-16_regime-gated-volatility]] — both study cross-sectional dynamics in financial markets
 - [[2026-08-16_game-theoretic-stock-forecasting]] — both model complex interactions in financial markets
+- [[2026-08-22_conformal-kelly]] — Both address portfolio risk management through statistical frameworks

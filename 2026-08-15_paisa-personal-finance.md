@@ -20,3 +20,5 @@ Points: 662 | Show HN. Open-source, self-hosted, based on the plain-text account
 - [[2026-08-16_maybe-finance]] — both are open-source personal finance apps
 - [[2026-08-16_projectionlab]] — both are personal finance tools featured on HN
 - [[2026-08-16_peek-ai-finance]] — both are personal finance management tools
+- [[2026-08-22_aurum-finance-os]] — Both are self-hosted/open-source personal finance management tools
+- [[2026-08-22_ai-financial-advice-lifecycle]] — Both relate to personal finance management tools and their life-cycle impact

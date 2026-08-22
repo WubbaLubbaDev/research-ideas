@@ -24,3 +24,5 @@ Build an AI chart analysis tool specifically for IDX stocks with Indonesian-lang
 - [[2026-08-15_AlphaTrading-ai-platform]] — both are AI-powered trading platforms with dashboards
 - [[2026-08-15_fere-ai-trading-signals]] — both provide AI-driven trading signals and setups
 - [[2026-08-15_intellectia-ai-trading]] — both are AI trading companions providing market insights
+- [[2026-08-22_definn-fintech-app]] — Both are trading apps combining stocks and crypto
+- [[2026-08-22_trading-across-brokerages]] — Both are stock trading platforms improving the trading experience

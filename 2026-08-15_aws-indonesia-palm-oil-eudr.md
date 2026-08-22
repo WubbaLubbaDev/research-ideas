@@ -21,3 +21,5 @@ Stars: 0 | Language: TypeScript | Targets Indonesia's 51M-tonne CPO industry. Us
 - [[2026-08-15_oil-palm-mapping-time-series]] — both use satellite/geospatial data for deforestation monitoring
 - [[2026-08-16_mondelez-supplier-deforestation]] — both address deforestation compliance in palm oil supply chains
 - [[2026-08-16_PalmPolicy-DSS]] — both address palm oil policy and regulatory compliance
+- [[2026-08-22_decentralized-carbon-indonesia]] — Both address sustainability compliance for Indonesian palm oil — EUDR and carbon trading
+- [[2026-08-22_mondelez-cuts-suppliers]] — Both address corporate compliance with deforestation-free supply chain requirements

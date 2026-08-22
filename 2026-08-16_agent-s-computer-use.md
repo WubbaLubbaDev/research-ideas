@@ -24,3 +24,6 @@ Use Agent S as the foundation for a computer-use agent that automates Indonesian
 - [[2026-08-16_system-prompts-ai-tools]] — both reveal how production AI agents are configured and operated
 - [[2026-08-16_manus-general-agent]] — both are general-purpose autonomous agents for real-world tasks
 - [[2026-08-15_moli-browser]] — both provide agent-native interfaces for web/computer interaction
+- [[2026-08-22_moli-headless-browser]] — Both are browser/computer-use infrastructure for AI agents
+- [[2026-08-22_longhorizon-harness]] — Both are computer-use harnesses for AI agents — long-running task execution
+- [[2026-08-22_task-models-computer-use]] — Both derive reusable task models from computer-use agent traces

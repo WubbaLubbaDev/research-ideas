@@ -25,3 +25,4 @@ Build a cost-control middleware layer for AI agents that enforces spending limit
 - [[2026-08-15_agent-safe-pipeline]] — both address the dangers of uncontrolled agent execution
 - [[2026-08-15_ai-agent-deleted-database]] — both are cautionary tales of uncontrolled agent actions
 - [[2026-08-15_windows-11-ai-agent-background]] — both address security risks of autonomous agents running without supervision
+- [[2026-08-22_ai-agent-bankrupted-2]] — Same story — AI agent ran up massive costs without guardrails

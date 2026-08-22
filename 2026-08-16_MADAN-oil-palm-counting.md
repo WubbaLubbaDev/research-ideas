@@ -24,3 +24,4 @@ Use MADAN's domain adaptation approach to scale oil palm tree counting across In
 - [[2026-08-16_MOPAD-oil-palm-uav]] — both use computer vision for oil palm tree monitoring from aerial imagery
 - [[2026-08-16_community-palm-model]] — both address land cover and plantation monitoring at scale
 - [[2026-08-15_oil-palm-mapping-time-series]] — both use deep learning for oil palm plantation mapping
+- [[2026-08-22_geoai-oil-palm-dataset]] — Both use geospatial AI for oil palm tree detection and counting

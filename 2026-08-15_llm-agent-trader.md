@@ -19,3 +19,4 @@ Stars: 1 | Language: Python (FastAPI) + TypeScript (Next.js) | LLM-based decisio
 ## Cross-links
 - [[2026-08-16_llm-trading-benchmark]] — both involve LLM-based trading agent evaluation and backtesting
 - [[2026-08-16_llm-stock-investing-human-factor]] — both evaluate LLM decision-making in stock trading
+- [[2026-08-22_autonomous-trading-system]] — Both are autonomous/LLM-powered stock trading systems

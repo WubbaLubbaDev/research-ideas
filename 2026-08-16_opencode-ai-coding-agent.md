@@ -23,3 +23,4 @@ Deploy OpenCode for Indonesian software development teams that need code generat
 - [[2026-08-16_rsm-agent-software-dev]] — both involve LLM-based coding/software development agents
 - [[2026-08-16_system-prompts-ai-tools]] — both involve AI coding agent architecture and configuration
 - [[2026-08-16_dify]] — both are open-source AI tools that can be self-hosted
+- [[2026-08-22_opencode-agent-2]] — Same project — OpenCode open-source AI coding agent

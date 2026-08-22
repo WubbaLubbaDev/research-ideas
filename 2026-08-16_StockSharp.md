@@ -24,3 +24,4 @@ Build a StockSharp connector for Indonesian brokers (Stockbit, MIFX, Phintraco).
 - [[2026-08-16_OpenBB]] — both serve as infrastructure for trading systems
 - [[2026-08-16_FinRL]] — both are frameworks for building trading systems
 - [[2026-08-15_AlphaTrading-ai-platform]] — both are full-stack trading platforms with algorithmic capabilities
+- [[2026-08-22_autonomous-trading-system]] — Both are algorithmic/autonomous trading platforms

@@ -19,3 +19,5 @@ Stars: 0 | Language: TypeScript | Uses Snowflake Dynamic Tables, Iceberg, Athena
 ## Cross-links
 - [[2026-08-16_mondelez-supplier-deforestation]] — both address palm oil supply chain traceability and deforestation compliance
 - [[2026-08-16_community-palm-model]] — both track land cover dynamics in palm oil supply chains
+- [[2026-08-22_decentralized-carbon-indonesia]] — Both improve transparency in palm oil supply chain for sustainability verification
+- [[2026-08-22_mondelez-cuts-suppliers]] — Both involve supply chain traceability for deforestation-free palm oil

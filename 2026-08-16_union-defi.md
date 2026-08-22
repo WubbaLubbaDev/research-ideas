@@ -22,3 +22,4 @@ Explore how ZK bridging could enable compliant cross-border payments for Indones
 ## Cross-links
 - [[2026-08-16_PortfolioU-cpo-futures]] — both involve trading and financial instruments, though in different domains
 - [[2026-08-15_stellar-invoice-factoring]] — both are DeFi/blockchain protocols for financial infrastructure
+- [[2026-08-22_clp-reinforcement-learning]] — Both involve DeFi protocol optimization — RL for liquidity vs ZK bridging

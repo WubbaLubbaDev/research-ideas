@@ -18,3 +18,5 @@ Stars: 2 | Language: TypeScript | Built on Stellar blockchain. Focuses on SME li
 
 ## Cross-links
 - [[2026-08-16_union-defi]] — both are DeFi/blockchain protocols for financial infrastructure
+- [[2026-08-22_jurisfinanceai]] — Both bridge legal/financial infrastructure with technology
+- [[2026-08-22_arc-cash-management]] — Both provide business cash flow management and financing solutions

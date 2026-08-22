@@ -25,3 +25,4 @@ Adapt this DSS for Indonesian palm oil policy — Indonesia is the world's large
 - [[2026-08-15_aws-indonesia-palm-oil-eudr]] — both address palm oil policy and regulatory compliance
 - [[2026-08-15_aws-indonesia-palm-oil-trading]] — both address palm oil market analysis and trading decisions
 - [[2026-08-15_eudr-impact-argentina]] — both address palm oil policy and regulatory compliance frameworks
+- [[2026-08-22_bursa-palmai]] — Both are decision support tools for palm oil market analysis

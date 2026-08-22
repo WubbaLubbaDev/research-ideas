@@ -22,3 +22,4 @@ Build an 'agent etiquette' framework — guidelines and tooling for AI agents th
 ## Cross-links
 - [[2026-08-16_ai-agent-hit-piece]] — both involve AI agents creating public content autonomously
 - [[2026-08-16_ai-agent-bankrupted-operator]] — both show agents acting without proper guardrails
+- [[2026-08-22_ai-agent-hit-piece-2]] — Both demonstrate risks of autonomous agents acting without oversight

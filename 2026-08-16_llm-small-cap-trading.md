@@ -24,3 +24,4 @@ Apply this LLM-driven approach to Indonesian small-cap stocks on IDX, where news
 - [[2026-08-16_llm-stock-investing-human-factor]] — both study LLMs for stock market prediction
 - [[2026-08-16_TradingAgents]] — both use LLMs for financial trading decisions
 - [[2026-08-15_generating-alpha-hybrid-ai]] — both combine sentiment analysis with technical signals
+- [[2026-08-22_sentiment-qlora-benchmark]] — Both use LLMs for financial sentiment analysis and return prediction

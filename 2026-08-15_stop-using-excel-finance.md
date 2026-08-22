@@ -19,3 +19,4 @@ Points: 627 | Originally published 2017 but discussion remains relevant as finan
 ## Cross-links
 - [[2026-08-16_financial-models-notebooks]] — both address alternatives to Excel for financial modeling
 - [[2026-08-16_OpenBB]] — both represent modern alternatives to Excel-based finance workflows
+- [[2026-08-22_arc-cash-management]] — Both target modernization of business finance operations away from spreadsheets

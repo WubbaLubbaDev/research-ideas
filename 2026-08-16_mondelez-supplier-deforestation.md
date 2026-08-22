@@ -21,8 +21,9 @@ Build a supply chain traceability platform for Indonesian CPO that helps smallho
 #research-idea #palm-oil #hacker-news
 
 ## Cross-links
-*None this run.*
+
 - [[2026-08-15_aws-indonesia-palm-oil-traceability]] — both address palm oil supply chain traceability and deforestation compliance
 - [[2026-08-15_aws-indonesia-palm-oil-eudr]] — both address deforestation compliance in palm oil supply chains
 - [[2026-08-15_indonesia-palm-oil-fires-ghg]] — both address deforestation impacts of palm oil production in Indonesia
 - [[2026-08-15_agroforestry-income-deforestation]] — both study the relationship between commodity production and deforestation
+- [[2026-08-22_mondelez-cuts-suppliers]] — Same story — Mondelez cutting palm oil suppliers over deforestation

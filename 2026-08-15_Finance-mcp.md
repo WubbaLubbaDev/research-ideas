@@ -20,3 +20,6 @@ Stars: 3 | Language: Python | 41 tools filtered to what your broker can serve. H
 - [[2026-08-16_OpenBB]] — both provide market data infrastructure for AI agents
 - [[2026-08-16_TradingAgents]] — both connect AI agents to financial market execution
 - [[2026-08-15_luxalgo-mcp-server]] — both are MCP servers for financial/trading data
+- [[2026-08-22_financeharness]] — Both connect AI agents to financial data sources for autonomous analysis
+- [[2026-08-22_dsh-quant]] — Both are plugins/extensions that add financial capabilities to agent platforms
+- [[2026-08-22_open-finance-mcp]] — Both are MCP servers connecting financial data to AI agents

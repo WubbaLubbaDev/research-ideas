@@ -22,3 +22,5 @@ Apply game-theoretic investor interaction models to IDX, where retail dominance 
 - [[2026-08-16_financial-network-balance]] — both model complex interactions in financial markets
 - [[2026-08-16_Stock-Prediction-Models]] — both forecast stock prices using advanced methods
 - [[2026-08-15_alphacrafter-multi-agent]] — both model cross-sectional stock interactions
+- [[2026-08-22_m3-market-microstructure]] — Both model market participant interactions at the microstructure level
+- [[2026-08-22_trader-identity-adverse-selection]] — Both study market participant behavior and its effect on price dynamics

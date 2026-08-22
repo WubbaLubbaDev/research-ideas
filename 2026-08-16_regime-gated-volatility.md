@@ -25,3 +25,4 @@ Apply regime-gated MoE to Indonesian market volatility — IDX has distinct regi
 - [[2026-08-16_Doji-options-trading]] — both relate to options pricing and volatility forecasting
 - [[2026-08-15_strat-llm-trading]] — both address regime-dependent trading strategy alignment
 - [[2026-08-15_generating-alpha-hybrid-ai]] — both incorporate regime detection into trading strategies
+- [[2026-08-22_m3-market-microstructure]] — Both model market microstructure dynamics for predictive trading

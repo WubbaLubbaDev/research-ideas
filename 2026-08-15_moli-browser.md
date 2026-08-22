@@ -18,3 +18,4 @@ Stars: 286 | Language: Rust | Positioned as the 'best browser for AI agents' —
 
 ## Cross-links
 - [[2026-08-16_agent-s-computer-use]] — both provide agent-native interfaces for web/computer interaction
+- [[2026-08-22_moli-headless-browser]] — Same project — Moli headless browser for AI agents in Rust

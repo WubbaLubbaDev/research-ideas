@@ -24,3 +24,4 @@ Build a similar tracker for Indonesian government officials and DPR members who 
 - [[2026-08-16_trump2cash]] — both involve political figures impacting stock trading
 - [[2026-08-15_tiktokers-copy-congress-trading]] — both track and surface US Congress stock trading activity
 - [[2026-08-15_house-dems-lawmaker-trading-ban]] — both relate to Congress stock trading regulation
+- [[2026-08-22_unusual-whales-congress-trading]] — Same story — US Congress stock trading tracker

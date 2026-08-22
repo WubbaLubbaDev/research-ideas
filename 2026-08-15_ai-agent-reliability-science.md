@@ -19,3 +19,5 @@ Authors: Stephan Rabanser, Sayash Kapoor, Arvind Narayanan et al. | Accepted at 
 ## Cross-links
 - [[2026-08-16_llm-trading-benchmark]] — both address reliability and evaluation of LLM agents in high-stakes tasks
 - [[2026-08-15_2025-ai-agent-index]] — both assess the state of deployed AI agent safety and reliability
+- [[2026-08-22_unlazy-agent-skill]] — Both address agent reliability and task completion quality
+- [[2026-08-22_pandora-model-routing]] — Both address efficiency and reliability in AI agent systems

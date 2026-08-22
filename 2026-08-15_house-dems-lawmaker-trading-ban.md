@@ -20,3 +20,5 @@ Points: 503 | Seeking Alpha report. Part of the ongoing political debate about w
 - [[2026-08-16_pelosi-lawmaker-trading]] — both cover the lawmaker stock trading ban debate
 - [[2026-08-16_unusual-whales-congress-trading]] — both relate to Congress stock trading regulation
 - [[2026-08-15_tiktokers-copy-congress-trading]] — both cover the lawmaker stock trading controversy
+- [[2026-08-22_mullvad-finance-privacy]] — Both involve political finance transparency and accountability
+- [[2026-08-22_unusual-whales-congress-trading]] — Both involve political stock trading accountability

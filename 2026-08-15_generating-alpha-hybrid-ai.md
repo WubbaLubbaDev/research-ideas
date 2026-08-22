@@ -20,3 +20,4 @@ Authors: Varun Narayan Kannan Pillai et al. (Amrita Vishwa Vidyapeetham) | Submi
 - [[2026-08-16_regime-gated-volatility]] — both incorporate regime detection into trading strategies
 - [[2026-08-16_Stock-Prediction-Models]] — both use ML/DL for stock price forecasting
 - [[2026-08-16_llm-small-cap-trading]] — both combine sentiment analysis with technical signals
+- [[2026-08-22_autonomous-trading-system]] — Both are autonomous AI-driven trading systems

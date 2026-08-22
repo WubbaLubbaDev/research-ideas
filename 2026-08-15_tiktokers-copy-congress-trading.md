@@ -20,3 +20,5 @@ Points: 441 | NPR article. Highlights the cultural phenomenon of retail investor
 - [[2026-08-16_unusual-whales-congress-trading]] — both track and surface US Congress stock trading activity
 - [[2026-08-16_pelosi-lawmaker-trading]] — both cover the lawmaker stock trading transparency debate
 - [[2026-08-15_house-dems-lawmaker-trading-ban]] — both cover the lawmaker stock trading controversy
+- [[2026-08-22_unusual-whales-congress-trading]] — Both involve tracking/copying politician stock trades
+- [[2026-08-22_iris-social-stock]] — Both involve social/copy trading — seeing and replicating others' trades

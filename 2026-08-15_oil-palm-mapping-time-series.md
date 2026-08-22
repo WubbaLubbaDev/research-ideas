@@ -21,3 +21,5 @@ Authors: Nuttaset Kuapanich et al. (Sun Yat-Sen University) | Submitted: Apr 202
 - [[2026-08-16_MOPAD-oil-palm-uav]] — both use remote sensing for oil palm monitoring
 - [[2026-08-15_aws-indonesia-palm-oil-eudr]] — both use satellite/geospatial data for deforestation monitoring
 - [[2026-08-16_community-palm-model]] — both map oil palm land cover dynamics
+- [[2026-08-22_oil-palm-mapping-timeseries]] — Same paper — time-series oil palm plantation mapping in Malaysia/Indonesia
+- [[2026-08-22_geoai-oil-palm-dataset]] — Both provide geospatial datasets for oil palm plantation detection in Indonesia

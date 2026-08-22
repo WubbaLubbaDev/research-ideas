@@ -20,5 +20,7 @@ Build a mobile app for Indonesian harvesters that uses phone-camera CNN to asses
 #research-idea #palm-oil #arxiv
 
 ## Cross-links
-*None this run.*
+
 - [[2026-08-15_aws-indonesia-palm-oil-precision-ag]] — both involve AI for palm oil agriculture optimization
+- [[2026-08-22_palm-leaf-disease-yolov8]] — Both use deep learning (CNN/YOLO) for palm oil crop disease/maturity detection
+- [[2026-08-22_agrichat-multimodal]] — Both apply AI to palm oil agriculture image understanding

@@ -19,4 +19,6 @@ Deploy TriggerNet for Indonesian palm plantations where pest outbreaks cause sig
 #research-idea #palm-oil #arxiv
 
 ## Cross-links
-*None this run.*
+
+- [[2026-08-22_palm-leaf-disease-yolov8]] — Both use AI for palm oil pest/disease detection from images
+- [[2026-08-22_agrichat-multimodal]] — Both use AI for agricultural pest/disease diagnosis from images

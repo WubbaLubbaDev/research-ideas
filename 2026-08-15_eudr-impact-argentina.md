@@ -19,3 +19,4 @@ Author: Pablo de la Vega (Fundar) | Submitted: Aug 2025 | Covers cattle, cocoa, 
 ## Cross-links
 - [[2026-08-15_aws-indonesia-palm-oil-eudr]] — both analyze EUDR compliance requirements for commodity exports
 - [[2026-08-16_PalmPolicy-DSS]] — both address palm oil policy and regulatory compliance frameworks
+- [[2026-08-22_greenpeace-illegal-palm-oil]] — Both involve deforestation regulation and enforcement for agricultural commodities

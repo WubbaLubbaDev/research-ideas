@@ -20,3 +20,4 @@ Stars: 0 | Language: TypeScript | IoT-driven, block-level FFB yield prediction, 
 - [[2026-08-16_PySawit-oil-palm-growth]] — both model oil palm growth and yield prediction
 - [[2026-08-16_smart-env-monitoring-palm]] — both use IoT for palm oil plantation monitoring
 - [[2026-08-16_palm-fruit-maturity-cnn]] — both involve AI for palm oil agriculture optimization
+- [[2026-08-22_palm-oil-3d-digital-twin]] — Both digitize palm oil production processes using sensors and CV

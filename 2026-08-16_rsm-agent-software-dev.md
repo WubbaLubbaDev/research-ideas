@@ -22,3 +22,4 @@ Apply RSM's role specialization pattern to multi-agent systems for Indonesian so
 - [[2026-08-16_opencode-ai-coding-agent]] — both involve LLM-based software development agents
 - [[2026-08-16_system-prompts-ai-tools]] — both involve how development agents are structured and coordinated
 - [[2026-08-15_future-of-work-ai-agents]] — both study agent roles in the future of work
+- [[2026-08-22_unlazy-agent-skill]] — Both improve agent task execution quality through structured methods

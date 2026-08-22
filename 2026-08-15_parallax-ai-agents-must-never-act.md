@@ -19,3 +19,5 @@ Authors: Not specified | 280 adversarial test cases in 9 attack categories | 98.
 ## Cross-links
 - [[2026-08-15_agent-safe-pipeline]] — both propose separation of agent thinking and acting
 - [[2026-08-15_agentic-ai-attack-defense]] — both identify prompt injection as a primary agent attack vector
+- [[2026-08-22_ai-agent-hit-piece-2]] — Both argue for guardrails on autonomous agent actions
+- [[2026-08-22_ai-agent-bankrupted-2]] — Both demonstrate the need for cost/safety guardrails on autonomous agents

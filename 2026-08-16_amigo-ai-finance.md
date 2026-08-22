@@ -22,3 +22,4 @@ Build a privacy-first finance hub for Indonesian users who distrust cloud-based 
 - [[2026-08-16_maybe-finance]] — both are personal finance platforms; Maybe could be Amigo's OSS foundation
 - [[2026-08-16_peek-ai-finance]] — both are AI-powered personal finance management tools
 - [[2026-08-16_projectionlab]] — both are personal finance management platforms
+- [[2026-08-22_finley-telegram-finance]] — Both are AI-powered personal finance hubs with real-time data

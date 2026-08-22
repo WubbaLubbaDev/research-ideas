@@ -19,3 +19,7 @@ Product Hunt launch: June 22, 2026. Focuses on reliability and evaluation for mu
 ## Cross-links
 - [[2026-08-15_ai-agent-reliability-science]] — both address evaluation and reliability of multi-agent systems
 - [[2026-08-16_langflow]] — both provide frameworks for building and evaluating multi-agent workflows
+- [[2026-08-22_finskillbench]] — Both evaluate AI agent capabilities in domain-specific tasks
+- [[2026-08-22_ai4ai-bench-rsi]] — Both benchmark AI agent capabilities — RSI design vs multi-agent eval
+- [[2026-08-22_agentx-eval]] — Both are AgentX — evaluating AI agent frameworks
+- [[2026-08-22_agent-arena]] — Both evaluate/benchmark AI agents in competitive settings

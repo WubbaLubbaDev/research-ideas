@@ -20,5 +20,6 @@ Deploy a similar IoT monitoring system for Indonesian smallholder plots that cur
 #research-idea #palm-oil #github-trending
 
 ## Cross-links
-*None this run.*
+
 - [[2026-08-15_aws-indonesia-palm-oil-precision-ag]] — both use IoT for palm oil plantation monitoring
+- [[2026-08-22_palm-oil-3d-digital-twin]] — Both use technology to monitor palm oil mill/plantation operations

@@ -24,3 +24,4 @@ This story reveals the demand for politician trading transparency tools — a pr
 - [[2026-08-16_trump2cash]] — both involve the intersection of politics and stock trading
 - [[2026-08-15_tiktokers-copy-congress-trading]] — both cover the lawmaker stock trading transparency debate
 - [[2026-08-15_house-dems-lawmaker-trading-ban]] — both cover the lawmaker stock trading ban debate
+- [[2026-08-22_unusual-whales-congress-trading]] — Both involve lawmaker stock trading transparency

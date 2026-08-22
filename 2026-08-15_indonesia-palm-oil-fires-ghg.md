@@ -20,3 +20,4 @@ Points: 137 | Quartz article. Illustrates the massive environmental impact of sl
 - [[2026-08-16_mondelez-supplier-deforestation]] — both address deforestation impacts of palm oil production in Indonesia
 - [[2026-08-16_problem-with-palm-oil]] — both highlight environmental damage from palm oil cultivation
 - [[2026-08-15_aws-indonesia-palm-oil-eudr]] — both involve deforestation monitoring for EUDR compliance
+- [[2026-08-22_greenpeace-illegal-palm-oil]] — Both highlight environmental damage from illegal/unregulated palm oil in Indonesia

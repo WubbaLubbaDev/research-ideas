@@ -29,3 +29,4 @@ Build a lightweight version of this multi-agent framework for retail traders in 
 - [[2026-08-15_stock-trading-team-skill]] — both use multi-agent role-based architectures for trading
 - [[2026-08-15_alphacrafter-multi-agent]] — both use multi-agent frameworks for financial trading
 - [[2026-08-15_agentos-multi-agent-platform]] — both orchestrate multiple AI agents for financial applications
+- [[2026-08-22_financeharness]] — Both use multi-agent frameworks for autonomous financial analysis and trading

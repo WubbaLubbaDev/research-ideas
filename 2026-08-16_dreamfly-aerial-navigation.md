@@ -21,3 +21,4 @@ Apply DreamFly's aerial navigation approach to Indonesian agriculture — drones
 ## Cross-links
 - [[2026-08-16_MOPAD-oil-palm-uav]] — both use drones/aerial systems for monitoring; DreamFly for navigation, MOPAD for palm tree observation
 - [[2026-08-16_ava-encoder-video-agents]] — both involve agent perception of visual data
+- [[2026-08-22_atlas-spatial-agent]] — Both involve AI agents for spatial/geospatial navigation and analysis
