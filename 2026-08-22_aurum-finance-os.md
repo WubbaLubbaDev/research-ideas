@@ -20,3 +20,5 @@ Stars: 25. Created Aug 16, 2026 by Zproger. Self-hosted, free for personal use.
 - [[2026-08-15_paisa-personal-finance]] — Both are self-hosted/open-source personal finance management tools
 - [[2026-08-16_maybe-finance]] — Both are personal finance apps — open-source alternatives to commercial finance dashboards
 - [[2026-08-16_projectionlab]] — Both are personal finance dashboards/simulators for self-hosted use
+
+- [[2026-08-29_8udget-offline-finance]] — Both are self-hosted/offline personal finance tools

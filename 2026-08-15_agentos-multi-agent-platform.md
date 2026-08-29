@@ -19,3 +19,7 @@ Product Hunt launch. Positions agents as 'running like a company' with role-base
 ## Cross-links
 - [[2026-08-16_TradingAgents]] — both orchestrate multiple AI agents for financial applications
 - [[2026-08-16_string-com-agent-builder]] — both are platforms for managing multiple AI agents
+
+- [[2026-08-29_deer-flow]] — Both manage multi-agent orchestration platforms
+- [[2026-08-29_a2acast-multi-computer-agents]] — Both enable multi-agent coordination across systems
+- [[2026-08-29_traccia-agent-control-plane]] — Both manage AI agents across frameworks from a central platform

@@ -18,3 +18,5 @@ Product Hunt Best of 2026. Category: AI agents, spatial data.
 
 ## Cross-links
 - [[2026-08-16_dreamfly-aerial-navigation]] — Both involve AI agents for spatial/geospatial navigation and analysis
+
+- [[2026-08-29_atlas-ai-agent-maps]] — Same product — Atlas.new AI agent for maps and spatial data — appeared in both weeks

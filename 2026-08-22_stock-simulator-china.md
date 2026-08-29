@@ -18,3 +18,6 @@ Stars: 66. Created Aug 13, 2026 by ljy969. Browser-based, local data only, zero 
 
 ## Cross-links
 - [[2026-08-16_Stock-Prediction-Models]] — Both are tools for stock market learning and strategy testing
+
+- [[2026-08-29_tick-stock-panel]] — Both target the A-share (Chinese stock) market with AI features
+- [[2026-08-29_cowanomics-trading-game]] — Both are stock trading simulators — one gamified, one for A-shares

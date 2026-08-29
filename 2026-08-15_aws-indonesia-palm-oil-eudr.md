@@ -23,3 +23,5 @@ Stars: 0 | Language: TypeScript | Targets Indonesia's 51M-tonne CPO industry. Us
 - [[2026-08-16_PalmPolicy-DSS]] — both address palm oil policy and regulatory compliance
 - [[2026-08-22_decentralized-carbon-indonesia]] — Both address sustainability compliance for Indonesian palm oil — EUDR and carbon trading
 - [[2026-08-22_mondelez-cuts-suppliers]] — Both address corporate compliance with deforestation-free supply chain requirements
+
+- [[2026-08-29_geoai-oil-palm-benchmark]] — Both support EUDR compliance through improved oil palm mapping

@@ -25,3 +25,5 @@ Use MADAN's domain adaptation approach to scale oil palm tree counting across In
 - [[2026-08-16_community-palm-model]] — both address land cover and plantation monitoring at scale
 - [[2026-08-15_oil-palm-mapping-time-series]] — both use deep learning for oil palm plantation mapping
 - [[2026-08-22_geoai-oil-palm-dataset]] — Both use geospatial AI for oil palm tree detection and counting
+
+- [[2026-08-29_oil-palm-yolov8-detection]] — Both use deep learning for oil palm tree/fruit counting

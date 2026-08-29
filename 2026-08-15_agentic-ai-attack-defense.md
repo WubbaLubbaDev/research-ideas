@@ -20,3 +20,6 @@ Authors: Juhee Kim, Xiaoyuan Liu, Dawn Song et al. | Accepted at USENIX Security
 - [[2026-08-15_parallax-ai-agents-must-never-act]] — both identify prompt injection in tool execution as a primary agent attack vector
 - [[2026-08-15_2025-ai-agent-index]] — both survey safety/security features of deployed AI agents
 - [[2026-08-15_agent-safe-pipeline]] — both propose architectures for secure agent execution
+
+- [[2026-08-29_gitlost-agent-prompt-injection]] — Both cover attack vectors against AI agents — prompt injection and broader threats
+- [[2026-08-29_redevoagent-red-teaming]] — Both cover attack/defense for AI agents — RedEvoAgent as automated red team, this as comprehensive survey

@@ -23,3 +23,6 @@ Build a privacy-first finance hub for Indonesian users who distrust cloud-based 
 - [[2026-08-16_peek-ai-finance]] — both are AI-powered personal finance management tools
 - [[2026-08-16_projectionlab]] — both are personal finance management platforms
 - [[2026-08-22_finley-telegram-finance]] — Both are AI-powered personal finance hubs with real-time data
+
+- [[2026-08-29_supermoney-ai-finance]] — Both are AI-powered personal finance management tools
+- [[2026-08-29_stated-privacy-finance]] — Both prioritize privacy in personal finance — Amigo as private hub, Stated as PDF-based

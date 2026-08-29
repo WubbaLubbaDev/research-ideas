@@ -20,3 +20,5 @@ Authors: Camille DeSisto et al. (Rice/Yale) | Submitted: Mar 2026 | Uses matchin
 - [[2026-08-16_mondelez-supplier-deforestation]] — both study the relationship between commodity production and deforestation
 - [[2026-08-16_problem-with-palm-oil]] — both analyze deforestation drivers in commodity agriculture
 - [[2026-08-15_palm-oil-alternative-rainforests]] — both examine the tension between economic development and forest conservation
+
+- [[2026-08-29_chemiseed-tropical-agtech]] — Both address sustainable tropical agriculture practices

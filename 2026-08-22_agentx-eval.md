@@ -18,3 +18,5 @@ Product Hunt Week of June 22, 2026. #4 on weekly leaderboard.
 
 ## Cross-links
 - [[2026-08-15_agentx-multi-agent-eval]] — Both are AgentX — evaluating AI agent frameworks
+
+- [[2026-08-29_weir-agent-testing-no-llm]] — Both are agent evaluation/testing frameworks

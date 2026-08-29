@@ -19,3 +19,5 @@ Stars: 864. Created Aug 10, 2026 by lexmount. Built in Rust. Lite, fast, high-co
 ## Cross-links
 - [[2026-08-15_moli-browser]] — Same project — Moli headless browser for AI agents in Rust
 - [[2026-08-16_agent-s-computer-use]] — Both are browser/computer-use infrastructure for AI agents
+
+- [[2026-08-29_headless-browser-rust-agents]] — Both are headless browsers for AI agents built in Rust — same project lineage

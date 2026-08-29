@@ -19,3 +19,5 @@ Authors: MW Wafiq et al. Cited by 3. Published 2025, still relevant in Aug 2026.
 ## Cross-links
 - [[2026-08-15_oil-palm-mapping-time-series]] — Both provide geospatial datasets for oil palm plantation detection in Indonesia
 - [[2026-08-16_MADAN-oil-palm-counting]] — Both use geospatial AI for oil palm tree detection and counting
+
+- [[2026-08-29_geoai-oil-palm-benchmark]] — Same dataset — open benchmark for GeoAI oil palm mapping in Indonesia

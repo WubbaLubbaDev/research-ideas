@@ -18,3 +18,6 @@ Product Hunt 2026 award winner. Category: Stock trading platforms, Investing.
 
 ## Cross-links
 - [[2026-08-16_Kai-ai-trading-wizard]] — Both are stock trading platforms improving the trading experience
+
+- [[2026-08-29_OpenAlice]] — Both unify trading across multiple brokers/asset classes
+- [[2026-08-29_co-invest-chat-to-trade]] — Both reduce friction in the research-to-trade workflow

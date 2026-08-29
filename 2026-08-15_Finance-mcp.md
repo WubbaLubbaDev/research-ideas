@@ -23,3 +23,6 @@ Stars: 3 | Language: Python | 41 tools filtered to what your broker can serve. H
 - [[2026-08-22_financeharness]] — Both connect AI agents to financial data sources for autonomous analysis
 - [[2026-08-22_dsh-quant]] — Both are plugins/extensions that add financial capabilities to agent platforms
 - [[2026-08-22_open-finance-mcp]] — Both are MCP servers connecting financial data to AI agents
+
+- [[2026-08-29_quantdinger]] — Both integrate MCP servers for connecting AI agents to trading tools
+- [[2026-08-29_open-finance-mcp]] — Both use MCP to connect financial data to AI agents

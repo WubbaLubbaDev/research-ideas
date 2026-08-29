@@ -19,3 +19,5 @@ Authors: Arishi Orra, Himanshu Choudhary, Manoj Thakur. Published Aug 2026. Cros
 ## Cross-links
 - [[2026-08-16_FinRL]] — Both use reinforcement learning for stock trading
 - [[2026-08-15_FinRL-X]] — Both apply RL to quantitative trading with improved stability
+
+- [[2026-08-29_self-supervised-aux-stock-rl]] — Same paper/technique — self-supervised auxiliary tasks for stable RL stock trading

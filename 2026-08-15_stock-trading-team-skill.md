@@ -19,3 +19,5 @@ Stars: 1 | Language: JavaScript | Designed for A-share (Chinese stock market) wi
 ## Cross-links
 - [[2026-08-16_TradingAgents]] — both use multi-agent role-based architectures for trading
 - [[2026-08-16_RAFA-ai-investing]] — both use specialized AI agents for investment analysis
+
+- [[2026-08-29_investorskills]] — Both package trading expertise as reusable skills for AI agents

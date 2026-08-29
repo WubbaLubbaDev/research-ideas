@@ -19,3 +19,5 @@ Product Hunt listing in stock trading platforms category. Listed alongside Surmo
 ## Cross-links
 - [[2026-08-16_Kai-ai-trading-wizard]] — both provide AI-driven trading signals and setups
 - [[2026-08-16_RAFA-ai-investing]] — both use AI agents for trading signal generation
+
+- [[2026-08-29_marketalerts-ai]] — Both generate AI-powered trading alerts and signals

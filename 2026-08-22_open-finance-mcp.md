@@ -19,3 +19,5 @@ Product Hunt 2026 award winner. Uses Brazil's Open Finance framework. MCP-compat
 ## Cross-links
 - [[2026-08-15_Finance-mcp]] — Both are MCP servers connecting financial data to AI agents
 - [[2026-08-15_luxalgo-mcp-server]] — Both are MCP servers providing financial data access to AI agents
+
+- [[2026-08-29_open-finance-mcp]] — Same product concept — connecting bank data to AI agents via MCP — appeared in both weeks

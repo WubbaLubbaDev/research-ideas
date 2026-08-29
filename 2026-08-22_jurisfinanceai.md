@@ -18,3 +18,5 @@ Stars: 108. Created Aug 11, 2026 by Ali-Marandi. No description provided — inf
 
 ## Cross-links
 - [[2026-08-15_stellar-invoice-factoring]] — Both bridge legal/financial infrastructure with technology
+
+- [[2026-08-29_finriskatlas-llm-risk-review]] — Both address LLM use in regulated financial workflows

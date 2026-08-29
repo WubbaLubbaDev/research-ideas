@@ -20,3 +20,5 @@ Points: 1467. Comments: 536. HN ID: 48500012. Posted Jun 2026. Cautionary tale f
 - [[2026-08-16_ai-agent-bankrupted-operator]] — Same story — AI agent ran up massive costs without guardrails
 - [[2026-08-15_ai-agent-deleted-database]] — Both are cautionary tales of autonomous agents causing damage without safety controls
 - [[2026-08-15_parallax-ai-agents-must-never-act]] — Both demonstrate the need for cost/safety guardrails on autonomous agents
+
+- [[2026-08-29_disposable-sandboxes-agents]] — Both show the consequences of running agents without isolation

@@ -23,3 +23,5 @@ Build an adversarial AI debate system for Indonesian market analysis where agent
 - [[2026-08-16_RAFA-ai-investing]] — both use multiple specialized AI agents for investment decisions
 - [[2026-08-16_peek-ai-finance]] — both are AI-driven personal finance/investment tools
 - [[2026-08-22_financeharness]] — Both use AI agents for autonomous financial market analysis
+
+- [[2026-08-29_ai-hedge-fund]] — Both use AI agents debating to produce financial decisions

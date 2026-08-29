@@ -26,3 +26,5 @@ Build a similar financial projection tool for Indonesian users with local assump
 - [[2026-08-16_amigo-ai-finance]] — both are personal finance management platforms
 - [[2026-08-15_paisa-personal-finance]] — both are personal finance tools featured on HN
 - [[2026-08-22_aurum-finance-os]] — Both are personal finance dashboards/simulators for self-hosted use
+
+- [[2026-08-29_fintur-forward-looking-finance]] — Both are forward-looking personal finance simulators/projection tools

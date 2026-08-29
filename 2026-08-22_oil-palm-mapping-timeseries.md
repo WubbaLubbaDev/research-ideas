@@ -19,3 +19,5 @@ Covers Malaysia and Indonesia, 2020-2024. Uses self-supervised learning to avoid
 ## Cross-links
 - [[2026-08-15_oil-palm-mapping-time-series]] — Same paper — time-series oil palm plantation mapping in Malaysia/Indonesia
 - [[2026-08-16_community-palm-model]] — Both model palm oil plantation land cover dynamics for supply chain analysis
+
+- [[2026-08-29_oil-palm-timeseries-mapping]] — Same paper — time-series oil palm mapping without annotation in Malaysia/Indonesia

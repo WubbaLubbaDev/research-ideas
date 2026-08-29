@@ -19,3 +19,5 @@ Stars: 0. Created Aug 20, 2026 by JonathanParzival. 3D simulation + computer vis
 ## Cross-links
 - [[2026-08-16_smart-env-monitoring-palm]] — Both use technology to monitor palm oil mill/plantation operations
 - [[2026-08-15_aws-indonesia-palm-oil-precision-ag]] — Both digitize palm oil production processes using sensors and CV
+
+- [[2026-08-29_oil-palm-leaf-temperature-db]] — Both provide data/models for digital representation of oil palm plants

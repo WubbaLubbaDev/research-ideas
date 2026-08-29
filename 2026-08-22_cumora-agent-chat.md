@@ -18,3 +18,6 @@ Stars: 2858. Created Aug 17, 2026 by yetone. Cross-platform, supports Claude Cod
 
 ## Cross-links
 - [[2026-08-16_string-com-agent-builder]] — Both are agent collaboration platforms — chat-based agent orchestration
+
+- [[2026-08-29_livekit-agents]] — Both involve agents as first-class participants in communication
+- [[2026-08-29_hermes-agent]] — Both embed agents in communication contexts

@@ -26,3 +26,5 @@ Use this repo as a starting point for benchmarking ML models on Indonesian stock
 - [[2026-08-15_ml-computational-finance-review]] — both survey ML/DL approaches for financial forecasting
 - [[2026-08-15_generating-alpha-hybrid-ai]] — both use ML/DL for stock price forecasting
 - [[2026-08-22_stock-simulator-china]] — Both are tools for stock market learning and strategy testing
+
+- [[2026-08-29_lumibot-ai-trading-agents]] — Both focus on ML/DL for stock prediction and trading

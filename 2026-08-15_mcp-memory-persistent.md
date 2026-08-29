@@ -20,3 +20,6 @@ Stars: 146 | Language: Python | Uses SQLite FTS5 for full-text search. OKF-backe
 - [[2026-08-15_loomfeed-reddit-alternative]] — both involve persistent context for agents
 - [[2026-08-16_dify]] — both provide infrastructure for agent memory and RAG pipelines
 - [[2026-08-22_github-farm-oauth]] — Both manage agent persistent state — OAuth sessions and memory respectively
+
+- [[2026-08-29_tradememory-protocol]] — Both provide persistent memory layers — one for agents generally, one for trading agents specifically
+- [[2026-08-29_codebase-memory-mcp]] — Both provide persistent memory for AI agents via MCP

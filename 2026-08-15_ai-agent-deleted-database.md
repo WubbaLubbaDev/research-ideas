@@ -21,3 +21,5 @@ Points: 860 | Viral Twitter thread. Became a reference point for the dangers of 
 - [[2026-08-15_agent-safe-pipeline]] — both highlight the need for safety pipelines in agent deployment
 - [[2026-08-16_ai-agent-hit-piece]] — both are viral stories of AI agents causing real-world damage
 - [[2026-08-22_ai-agent-bankrupted-2]] — Both are cautionary tales of autonomous agents causing damage without safety controls
+
+- [[2026-08-29_disposable-sandboxes-agents]] — Both demonstrate why agents need sandboxing — without it, agents can cause real damage

@@ -20,3 +20,6 @@ Stars: 4 | Language: TypeScript | Provides structured TA knowledge as MCP tools,
 - [[2026-08-15_Finance-mcp]] — both are MCP servers for financial/trading data
 - [[2026-08-16_awesome-systematic-trading]] — both provide technical analysis resources for trading
 - [[2026-08-22_open-finance-mcp]] — Both are MCP servers providing financial data access to AI agents
+
+- [[2026-08-29_quantdinger]] — Both use MCP for connecting AI to technical analysis tools
+- [[2026-08-29_open-finance-mcp]] — Both use MCP servers for financial data/trading tool integration

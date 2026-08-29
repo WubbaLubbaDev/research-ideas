@@ -19,3 +19,6 @@ Product Hunt listing. 220 followers. Positions itself as building agents that 'w
 ## Cross-links
 - [[2026-08-16_string-com-agent-builder]] — both are platforms for building AI agents without coding
 - [[2026-08-16_dify]] — both are agent-building platforms with visual/no-code approaches
+
+- [[2026-08-29_hermes-agent]] — Both are platforms for building and deploying real working agents
+- [[2026-08-29_traccia-agent-control-plane]] — Both are agent management/orchestration platforms

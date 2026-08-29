@@ -18,3 +18,5 @@ Authors: Patrick Cheridito, Moritz Weiss. Published Aug 2026. Subjects: Trading 
 
 ## Cross-links
 - [[2026-08-16_awesome-systematic-trading]] — Both involve systematic/algorithmic market making strategies
+
+- [[2026-08-29_agent-tacit-collusion]] — Both study algorithmic market behavior and its emergent properties

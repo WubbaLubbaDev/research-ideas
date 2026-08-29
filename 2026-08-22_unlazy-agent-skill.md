@@ -19,3 +19,5 @@ Stars: 661. Created Aug 9, 2026 by Leonxlnx. Grounded in research on model lazin
 ## Cross-links
 - [[2026-08-16_rsm-agent-software-dev]] — Both improve agent task execution quality through structured methods
 - [[2026-08-15_ai-agent-reliability-science]] — Both address agent reliability and task completion quality
+
+- [[2026-08-29_wikiskill-agent-knowledge]] — Both address agent skill development and evolution

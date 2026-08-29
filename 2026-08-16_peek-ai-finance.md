@@ -26,3 +26,7 @@ Build an Indonesian-language AI finance coach integrated with local e-wallets (G
 - [[2026-08-16_marx-finance]] — both use AI for financial decision-making
 - [[2026-08-15_paisa-personal-finance]] — both are personal finance management tools
 - [[2026-08-22_finley-telegram-finance]] — Both are AI-powered personal finance assistants with alerts
+
+- [[2026-08-29_fintur-forward-looking-finance]] — Both are AI-powered personal finance apps that go beyond tracking
+- [[2026-08-29_supermoney-ai-finance]] — Both are AI personal finance coaches that surface actionable insights
+- [[2026-08-29_vaultr-young-professionals]] — Both target users who need financial guidance, not just tracking

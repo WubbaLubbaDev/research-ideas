@@ -18,3 +18,6 @@ Stars: not listed. Created Aug 22, 2026 by d4ncboz. Multi-platform OAuth, sessio
 
 ## Cross-links
 - [[2026-08-15_mcp-memory-persistent]] — Both manage agent persistent state — OAuth sessions and memory respectively
+
+- [[2026-08-29_nist-agent-identity]] — Both deal with agent authentication and identity security
+- [[2026-08-29_gitlost-agent-prompt-injection]] — Both expose agent security vulnerabilities via OAuth/permission exploitation

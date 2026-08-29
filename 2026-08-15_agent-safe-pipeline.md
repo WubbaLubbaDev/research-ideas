@@ -21,3 +21,6 @@ Stars: 376 | Language: TypeScript | Architecture: Intent → Policy Verdict → 
 - [[2026-08-16_ai-agent-bankrupted-operator]] — both address the dangers of uncontrolled agent execution
 - [[2026-08-15_ai-agent-deleted-database]] — both are cautionary tales driving the need for agent safety pipelines
 - [[2026-08-22_longhorizon-harness]] — Both address agent safety and control during task execution
+
+- [[2026-08-29_governed-pass-agent-certification]] — Both address agent safety governance and certification
+- [[2026-08-29_permission-policies-agent-overreach]] — Both implement policy/permission systems for agent safety

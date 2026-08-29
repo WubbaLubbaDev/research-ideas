@@ -21,3 +21,7 @@ Authors: Not specified | 280 adversarial test cases in 9 attack categories | 98.
 - [[2026-08-15_agentic-ai-attack-defense]] — both identify prompt injection as a primary agent attack vector
 - [[2026-08-22_ai-agent-hit-piece-2]] — Both argue for guardrails on autonomous agent actions
 - [[2026-08-22_ai-agent-bankrupted-2]] — Both demonstrate the need for cost/safety guardrails on autonomous agents
+
+- [[2026-08-29_nofx-ai-trading-kill-switch]] — Both address the danger of autonomous agents acting without safety constraints
+- [[2026-08-29_disposable-sandboxes-agents]] — Both address the danger of giving agents unrestricted system access
+- [[2026-08-29_ai-agent-safety-permissions]] — Both argue for consequence-aware safety, not just access control

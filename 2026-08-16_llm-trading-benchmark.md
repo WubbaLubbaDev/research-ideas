@@ -27,3 +27,6 @@ Use this benchmark methodology to properly evaluate LLM trading agents on IDX da
 - [[2026-08-15_ai-agent-reliability-science]] — both address reliability and evaluation of LLM agents in high-stakes tasks
 - [[2026-08-22_llm-calibration-degeneracy]] — Both evaluate the reliability and pitfalls of LLM-based trading predictions
 - [[2026-08-22_finskillbench]] — Both benchmark LLM/AI agent capabilities for trading and investment
+
+- [[2026-08-29_reading-not-using-ai-finance]] — Both evaluate LLM capabilities in financial decision-making beyond simple comprehension
+- [[2026-08-29_llm-trading-memory-benchmark]] — Both benchmark LLM agents in trading contexts

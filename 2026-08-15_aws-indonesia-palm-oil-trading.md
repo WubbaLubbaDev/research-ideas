@@ -20,3 +20,5 @@ Stars: 0 | Language: TypeScript | Targets Indonesia's US$28B palm oil export mar
 - [[2026-08-16_PortfolioU-cpo-futures]] — both involve CPO trading intelligence and price forecasting
 - [[2026-08-16_PalmPolicy-DSS]] — both address palm oil market analysis and trading decisions
 - [[2026-08-22_bursa-palmai]] — Both are palm oil trading intelligence platforms for investors
+
+- [[2026-08-29_palm-oil-immersion-cooling]] — Both explore non-traditional value creation from palm oil — one industrial, one trading

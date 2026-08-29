@@ -18,3 +18,6 @@ Product Hunt 2026. Integrates with Robinhood. Category: Stock trading platforms.
 
 ## Cross-links
 - [[2026-08-15_tiktokers-copy-congress-trading]] — Both involve social/copy trading — seeing and replicating others' trades
+
+- [[2026-08-29_cowanomics-trading-game]] — Both bring social/gamified elements to stock trading
+- [[2026-08-29_pluto-profile-as-agent]] — Both bring agent-driven social/identity features to professional contexts

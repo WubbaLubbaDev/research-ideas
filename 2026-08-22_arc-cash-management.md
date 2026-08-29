@@ -19,3 +19,5 @@ Top-reviewed finance product on Product Hunt 2026. Category: Treasury management
 ## Cross-links
 - [[2026-08-15_stellar-invoice-factoring]] — Both provide business cash flow management and financing solutions
 - [[2026-08-16_stop-using-excel-finance]] — Both target modernization of business finance operations away from spreadsheets
+
+- [[2026-08-29_sigmapointpi-startup-finance]] — Both target startup/enterprise financial management with AI

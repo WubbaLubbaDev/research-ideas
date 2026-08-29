@@ -19,3 +19,5 @@ Stars: 864. Created Aug 4, 2026 by AMAP-ML. Features: fresh-context execution, d
 ## Cross-links
 - [[2026-08-16_agent-s-computer-use]] — Both are computer-use harnesses for AI agents — long-running task execution
 - [[2026-08-15_agent-safe-pipeline]] — Both address agent safety and control during task execution
+
+- [[2026-08-29_deer-flow]] — Both address long-horizon agent orchestration with sub-agents

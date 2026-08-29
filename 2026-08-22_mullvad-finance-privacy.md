@@ -18,3 +18,5 @@ Points: 695. Comments: 1588. HN ID: 48717469. Posted Jun 2026.
 
 ## Cross-links
 - [[2026-08-15_house-dems-lawmaker-trading-ban]] — Both involve political finance transparency and accountability
+
+- [[2026-08-29_stated-privacy-finance]] — Both intersect privacy and finance

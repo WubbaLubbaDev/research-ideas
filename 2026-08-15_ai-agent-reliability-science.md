@@ -21,3 +21,5 @@ Authors: Stephan Rabanser, Sayash Kapoor, Arvind Narayanan et al. | Accepted at 
 - [[2026-08-15_2025-ai-agent-index]] — both assess the state of deployed AI agent safety and reliability
 - [[2026-08-22_unlazy-agent-skill]] — Both address agent reliability and task completion quality
 - [[2026-08-22_pandora-model-routing]] — Both address efficiency and reliability in AI agent systems
+
+- [[2026-08-29_safety-does-not-compose]] — Both address agent reliability and safety as a science

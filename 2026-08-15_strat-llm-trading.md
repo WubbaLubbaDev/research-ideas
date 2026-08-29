@@ -20,3 +20,6 @@ Authors: Wenliang Huang, Zengyi Yu | Submitted: May 2026 | Accepted at IJCNN 202
 - [[2026-08-16_llm-trading-benchmark]] — both evaluate LLM-based trading agents across market conditions
 - [[2026-08-16_regime-gated-volatility]] — both address regime-dependent trading strategy alignment
 - [[2026-08-16_llm-stock-investing-human-factor]] — both study LLM autonomy levels in stock trading
+
+- [[2026-08-29_fides-llm-trading-strategies]] — Both concern LLM-based stock trading strategy generation and evaluation
+- [[2026-08-29_llm-trading-memory-benchmark]] — Both evaluate LLM-based trading strategy consistency

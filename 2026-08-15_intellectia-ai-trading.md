@@ -19,3 +19,5 @@ Product Hunt rating: 5.0 (7 reviews). Positioned as an AI companion for more eff
 ## Cross-links
 - [[2026-08-16_Kai-ai-trading-wizard]] — both are AI trading companions providing market insights
 - [[2026-08-16_Doji-options-trading]] — both are stock trading platforms on Product Hunt
+
+- [[2026-08-29_marketalerts-ai]] — Both are AI stock analysis and alert platforms

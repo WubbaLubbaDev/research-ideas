@@ -24,3 +24,6 @@ Integrate PySawit's growth/yield models with weather data APIs and IoT sensor ne
 - [[2026-08-16_palm-fruit-maturity-cnn]] — both address palm oil yield optimization through technology
 - [[2026-08-16_MOPAD-oil-palm-uav]] — both monitor oil palm growth and health
 - [[2026-08-15_aws-indonesia-palm-oil-precision-ag]] — both model oil palm growth and yield prediction
+
+- [[2026-08-29_chemiseed-tropical-agtech]] — Both provide data-driven tools for oil palm agronomy
+- [[2026-08-29_oil-palm-leaf-temperature-db]] — Both provide physiological/growth data for oil palm cultivation

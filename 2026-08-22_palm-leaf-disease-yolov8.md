@@ -19,3 +19,5 @@ Stars: 0. Created Aug 21, 2026 by Ishrath-Begum. YOLOv8, real-time detection.
 ## Cross-links
 - [[2026-08-16_palm-fruit-maturity-cnn]] — Both use deep learning (CNN/YOLO) for palm oil crop disease/maturity detection
 - [[2026-08-16_triggernet-red-palm-mite]] — Both use AI for palm oil pest/disease detection from images
+
+- [[2026-08-29_oil-palm-yolov8-detection]] — Both use YOLOv8 for palm oil agriculture detection tasks

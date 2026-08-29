@@ -20,3 +20,5 @@ Stars: 94. Created Aug 3, 2026 by Yijia-Xiao. AI-powered financial research.
 - [[2026-08-15_Finance-mcp]] — Both connect AI agents to financial data sources for autonomous analysis
 - [[2026-08-16_TradingAgents]] — Both use multi-agent frameworks for autonomous financial analysis and trading
 - [[2026-08-16_marx-finance]] — Both use AI agents for autonomous financial market analysis
+
+- [[2026-08-29_dsa-evidence-aware-stock-research]] — Both are frameworks for autonomous financial research with LLM agents

@@ -18,3 +18,5 @@ Points: 1274. Comments: 618. HN ID: 47460525. Posted Mar 2026. Open source, term
 
 ## Cross-links
 - [[2026-08-16_opencode-ai-coding-agent]] — Same project — OpenCode open-source AI coding agent
+
+- [[2026-08-29_grok-build]] — Both are open-source coding agent harnesses

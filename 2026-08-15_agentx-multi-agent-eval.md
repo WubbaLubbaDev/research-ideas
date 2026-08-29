@@ -23,3 +23,5 @@ Product Hunt launch: June 22, 2026. Focuses on reliability and evaluation for mu
 - [[2026-08-22_ai4ai-bench-rsi]] — Both benchmark AI agent capabilities — RSI design vs multi-agent eval
 - [[2026-08-22_agentx-eval]] — Both are AgentX — evaluating AI agent frameworks
 - [[2026-08-22_agent-arena]] — Both evaluate/benchmark AI agents in competitive settings
+
+- [[2026-08-29_weir-agent-testing-no-llm]] — Both evaluate/test AI agents — Weir without LLMs, AgentX with multi-agent focus

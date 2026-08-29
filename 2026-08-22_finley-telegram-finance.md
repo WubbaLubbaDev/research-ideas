@@ -19,3 +19,6 @@ Stars: 18. Created Aug 7, 2026 by Skull-boy. Telegram bot, free-tier architectur
 ## Cross-links
 - [[2026-08-16_peek-ai-finance]] — Both are AI-powered personal finance assistants with alerts
 - [[2026-08-16_amigo-ai-finance]] — Both are AI-powered personal finance hubs with real-time data
+
+- [[2026-08-29_co-invest-chat-to-trade]] — Both enable conversational/chat-driven financial interaction
+- [[2026-08-29_hey-noah-ai-executive-assistant]] — Both are proactive AI assistants that handle tasks autonomously

@@ -19,3 +19,5 @@ Authors: Rischan Mafrur, Fadli Ikhsan Pratama, Khadijah. Published Aug 2026. Ind
 ## Cross-links
 - [[2026-08-15_aws-indonesia-palm-oil-eudr]] — Both address sustainability compliance for Indonesian palm oil — EUDR and carbon trading
 - [[2026-08-15_aws-indonesia-palm-oil-traceability]] — Both improve transparency in palm oil supply chain for sustainability verification
+
+- [[2026-08-29_palm-oil-immersion-cooling]] — Both connect palm oil to climate/sustainability initiatives in Indonesia

@@ -19,3 +19,5 @@ Stars: 2. Created Aug 18, 2026 by shivangsaxena2211. React Native + Expo + Flask
 ## Cross-links
 - [[2026-08-15_AlphaTrading-ai-platform]] — Both are unified fintech apps combining multiple asset classes
 - [[2026-08-16_Kai-ai-trading-wizard]] — Both are trading apps combining stocks and crypto
+
+- [[2026-08-29_vaultr-young-professionals]] — Both target younger demographics with modern finance UX

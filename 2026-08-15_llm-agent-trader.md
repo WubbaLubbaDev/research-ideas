@@ -20,3 +20,6 @@ Stars: 1 | Language: Python (FastAPI) + TypeScript (Next.js) | LLM-based decisio
 - [[2026-08-16_llm-trading-benchmark]] — both involve LLM-based trading agent evaluation and backtesting
 - [[2026-08-16_llm-stock-investing-human-factor]] — both evaluate LLM decision-making in stock trading
 - [[2026-08-22_autonomous-trading-system]] — Both are autonomous/LLM-powered stock trading systems
+
+- [[2026-08-29_lumibot-ai-trading-agents]] — Both combine LLM agents with backtesting for trading
+- [[2026-08-29_openpilot-ai-quant-live]] — Both combine LLM agents with live trading

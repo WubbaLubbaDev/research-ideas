@@ -26,3 +26,5 @@ Fork Maybe for the Indonesian market — integrate with local bank APIs (BCA, Ma
 - [[2026-08-16_stanford-cs007]] — both target personal finance literacy and management
 - [[2026-08-15_paisa-personal-finance]] — both are open-source personal finance apps
 - [[2026-08-22_aurum-finance-os]] — Both are personal finance apps — open-source alternatives to commercial finance dashboards
+
+- [[2026-08-29_lums-ai-budget]] — Both are personal finance apps with AI-powered budgeting
