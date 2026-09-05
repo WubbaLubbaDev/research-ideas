@@ -20,3 +20,4 @@ Authors: M. Warizmi Wafiq, Peter Cutter, Ate Poortinga | Published: 2025-09-10 |
 - [[2026-08-22_geoai-oil-palm-dataset]] — Same dataset — open benchmark for GeoAI oil palm mapping in Indonesia
 - [[2026-08-29_oil-palm-timeseries-mapping]] — Both provide data resources for oil palm mapping in Indonesia
 - [[2026-08-15_aws-indonesia-palm-oil-eudr]] — Both support EUDR compliance through improved oil palm mapping
+- [[2026-09-05_noisy-maps-oil-palm-mapping]] — Both use satellite imagery and deep learning for oil palm mapping in Indonesia — this generates maps, the other provides benchmark datasets

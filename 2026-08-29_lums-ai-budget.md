@@ -19,3 +19,4 @@ Source: Product Hunt | Launched: 2026-05-06 | Category: Finance, Budgeting
 ## Cross-links
 - [[2026-08-15_paisa-personal-finance]] — Both are open-source personal finance managers with AI features
 - [[2026-08-16_maybe-finance]] — Both are personal finance apps with AI-powered budgeting
+- [[2026-09-05_peek-ai-finance-coach]] — Both use AI to help users manage personal finances conversationally

@@ -19,3 +19,4 @@ Points: high | Comments: extensive | HN: https://news.ycombinator.com/item?id=47
 ## Cross-links
 - [[2026-08-29_compliant-llm-nist-airmf]] — Both are compliance scanning tools for AI agents — EU AI Act vs NIST AI RMF
 - [[2026-08-29_governed-pass-agent-certification]] — Both address agent compliance with regulation
+- [[2026-09-05_auditmind-regulatory-agent]] — Both are compliance-focused AI agent tools — one for audit scenarios, the other for EU AI Act scanning

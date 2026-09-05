@@ -19,3 +19,4 @@ Source: Product Hunt | Category: AI Agents, Developer Tools | Type: Open Source
 ## Cross-links
 - [[2026-08-15_agentos-multi-agent-platform]] — Both manage AI agents across frameworks from a central platform
 - [[2026-08-15_kodey-ai-agent-platform]] — Both are agent management/orchestration platforms
+- [[2026-09-05_agentos-control-layer]] — Both are agent control planes — AgentOS for multi-agent management, Traccia for vendor-neutral governance

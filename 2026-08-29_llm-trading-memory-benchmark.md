@@ -20,3 +20,4 @@ Authors: Taojie Zhu, Wentao Zhao, Rui Sun | Published: 2026-05-27 | arXiv: 2605.
 - [[2026-08-29_tradememory-protocol]] — Both address memory in trading agents — one as benchmark, one as protocol
 - [[2026-08-16_llm-trading-benchmark]] — Both benchmark LLM agents in trading contexts
 - [[2026-08-15_strat-llm-trading]] — Both evaluate LLM-based trading strategy consistency
+- [[2026-09-05_stockbench-llm-trading]] — Both evaluate LLM trading agents — StockBench focuses on profitability, the other on memory effects

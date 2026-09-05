@@ -21,3 +21,4 @@ Stars: 0 | Language: TypeScript | Uses Snowflake Dynamic Tables, Iceberg, Athena
 - [[2026-08-16_community-palm-model]] — both track land cover dynamics in palm oil supply chains
 - [[2026-08-22_decentralized-carbon-indonesia]] — Both improve transparency in palm oil supply chain for sustainability verification
 - [[2026-08-22_mondelez-cuts-suppliers]] — Both involve supply chain traceability for deforestation-free palm oil
+- [[2026-09-05_sawit-field-crm]] — Both address palm oil supply chain data collection — field CRM for enumerators vs plantation-to-refinery traceability

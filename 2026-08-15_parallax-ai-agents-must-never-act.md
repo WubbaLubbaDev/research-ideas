@@ -25,3 +25,4 @@ Authors: Not specified | 280 adversarial test cases in 9 attack categories | 98.
 - [[2026-08-29_nofx-ai-trading-kill-switch]] — Both address the danger of autonomous agents acting without safety constraints
 - [[2026-08-29_disposable-sandboxes-agents]] — Both address the danger of giving agents unrestricted system access
 - [[2026-08-29_ai-agent-safety-permissions]] — Both argue for consequence-aware safety, not just access control
+- [[2026-09-05_parallax-agents-must-never-act]] — Same paper — Parallax arguing AI agents that think must never act, now found via arXiv search

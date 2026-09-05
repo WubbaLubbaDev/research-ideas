@@ -20,3 +20,4 @@ Found via web search (not on Product Hunt proper). Web app on Render. Malaysian 
 - [[2026-08-15_aws-indonesia-palm-oil-trading]] — Both are palm oil trading intelligence platforms for investors
 - [[2026-08-16_PortfolioU-cpo-futures]] — Both involve CPO/palm oil price analysis for trading decisions
 - [[2026-08-16_PalmPolicy-DSS]] — Both are decision support tools for palm oil market analysis
+- [[2026-09-05_sawit-field-crm]] — Both are palm oil operational tools — field CRM for data collection, Bursa PalmAI for investor intelligence

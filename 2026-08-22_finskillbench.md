@@ -22,3 +22,4 @@ Authors: Jermyn Zhen Yong Bek, Zhuang Qiang Bok, Zhongtian Sun. Published Aug 20
 
 - [[2026-08-29_investorskills]] — Both address skills for financial AI agents — investorskills builds them, FinSkillBench evaluates them
 - [[2026-08-29_reading-not-using-ai-finance]] — Both benchmark AI agents in investment/financial contexts
+- [[2026-09-05_stockbench-llm-trading]] — Both are benchmarks for evaluating AI agents in investment/trading contexts

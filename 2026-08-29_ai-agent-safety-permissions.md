@@ -20,3 +20,4 @@ Points: 5 | Comments: 0 | HN: https://news.ycombinator.com/item?id=49325639
 - [[2026-08-29_gitlost-agent-prompt-injection]] — Both argue that permission-based safety is insufficient for agents
 - [[2026-08-29_permission-policies-agent-overreach]] — Both critique the permissions paradigm for agent safety
 - [[2026-08-15_parallax-ai-agents-must-never-act]] — Both argue for consequence-aware safety, not just access control
+- [[2026-09-05_parallax-agents-must-never-act]] — Both challenge current agent safety paradigms — Parallax says never act, this says permissions are insufficient

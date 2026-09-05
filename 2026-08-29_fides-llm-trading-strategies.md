@@ -20,3 +20,4 @@ Authors: Arther Tian, Alex Ding, Simon Wu | Published: 2026-08-24 | arXiv: 2608.
 - [[2026-08-29_dsa-evidence-aware-stock-research]] — Both address trustworthiness of LLM-generated financial analysis
 - [[2026-08-29_auditable-llm-enterprise-finance]] — All three address trust/audit of LLM outputs in finance
 - [[2026-08-15_strat-llm-trading]] — Both concern LLM-based stock trading strategy generation and evaluation
+- [[2026-09-05_agentic-trading-survey]] — FIDES addresses the concordance problem this survey identifies — strategy claims vs actual behavior

@@ -24,3 +24,5 @@ Stars: 376 | Language: TypeScript | Architecture: Intent → Policy Verdict → 
 
 - [[2026-08-29_governed-pass-agent-certification]] — Both address agent safety governance and certification
 - [[2026-08-29_permission-policies-agent-overreach]] — Both implement policy/permission systems for agent safety
+- [[2026-09-05_auditmind-regulatory-agent]] — Both implement agent safety via structured compliance pipelines
+- [[2026-09-05_parallax-agents-must-never-act]] — Both propose think-act separation for agent safety — propose but don't authorize

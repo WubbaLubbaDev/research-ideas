@@ -20,3 +20,4 @@ Stars: 1,900 | Language: Python | Topics: trading-bot, multi-agent, ai-agents, l
 - [[2026-08-16_Stock-Prediction-Models]] — Both focus on ML/DL for stock prediction and trading
 - [[2026-08-15_llm-agent-trader]] — Both combine LLM agents with backtesting for trading
 - [[2026-08-29_openpilot-ai-quant-live]] — Both deploy AI trading agents with real broker integration
+- [[2026-09-05_stonkjournal-trading-journal]] — Both are tools for serious traders — journaling and backtesting are complementary workflows

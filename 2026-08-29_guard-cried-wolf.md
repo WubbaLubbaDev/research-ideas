@@ -19,3 +19,4 @@ Authors: Yingjie Zhang, Yuanbo Xie, Kai Chen | Published: 2026-08-27 | arXiv: 26
 ## Cross-links
 - [[2026-08-29_intent-as-tool-agent-misalignment]] — Both address agent guardrail design — over-safety vs misalignment detection
 - [[2026-08-29_permission-policies-agent-overreach]] — Both study the trade-off between safety constraints and agent utility
+- [[2026-09-05_openagentflow-safety-fleets]] — Both deal with agent guardrails — OpenAgentFlow defines boundaries, this studies over-safety false positives

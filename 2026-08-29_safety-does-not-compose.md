@@ -21,3 +21,4 @@ Authors: Chenhao Wu, Haoxuan Jia, Yang Liu | Published: 2026-08-27 | arXiv: 2608
 - [[2026-08-29_nofx-ai-trading-kill-switch]] — The kill switch pattern directly addresses the safety composition problem this paper identifies
 - [[2026-08-15_ai-agent-reliability-science]] — Both address agent reliability and safety as a science
 - [[2026-08-29_disposable-sandboxes-agents]] — Sandboxing is one response to the safety composition problem
+- [[2026-09-05_reverify-anti-hallucination]] — Both address agent safety — reverify is a verification mechanism, this paper shows safety doesn't compose in loops

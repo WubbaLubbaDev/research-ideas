@@ -21,3 +21,4 @@ Source: Product Hunt | Category: Finance, Budgeting
 - [[2026-08-22_mullvad-finance-privacy]] — Both intersect privacy and finance
 
 - [[2026-08-29_8udget-offline-finance]] — Both prioritize privacy and local data in personal finance
+- [[2026-09-05_poka-ce-offline-finance]] — Both prioritize privacy in personal finance tracking

@@ -25,3 +25,4 @@ Authors: Nuttaset Kuapanich et al. (Sun Yat-Sen University) | Submitted: Apr 202
 - [[2026-08-22_geoai-oil-palm-dataset]] — Both provide geospatial datasets for oil palm plantation detection in Indonesia
 
 - [[2026-08-29_oil-palm-timeseries-mapping]] — Same research lineage — noisy historical maps for oil palm plantation mapping
+- [[2026-09-05_noisy-maps-oil-palm-mapping]] — Same paper — time-series oil palm mapping from noisy historical maps, now found again via arXiv

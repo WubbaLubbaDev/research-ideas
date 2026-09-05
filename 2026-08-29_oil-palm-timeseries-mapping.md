@@ -21,3 +21,4 @@ Authors: Nuttaset Kuapanich, Juepeng Zheng, Bohan Shi | Published: 2026-04-26 | 
 - [[2026-08-15_oil-palm-mapping-time-series]] — Same research lineage — noisy historical maps for oil palm plantation mapping
 - [[2026-08-29_geoai-oil-palm-benchmark]] — Both provide mapping/benchmark resources for oil palm detection in Indonesia
 - [[2026-08-29_atlas-ai-agent-maps]] — Spatial AI agents could use this mapping data for plantation monitoring
+- [[2026-09-05_noisy-maps-oil-palm-mapping]] — Same paper — appears across multiple weekly scans

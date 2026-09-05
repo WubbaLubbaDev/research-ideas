@@ -27,3 +27,5 @@ Build a StockSharp connector for Indonesian brokers (Stockbit, MIFX, Phintraco).
 - [[2026-08-22_autonomous-trading-system]] — Both are algorithmic/autonomous trading platforms
 
 - [[2026-08-29_OpenAlice]] — Both are open-source trading platforms — OpenAlice is TS, StockSharp is C#
+- [[2026-09-05_eight-market-quant-ai]] — Both support multi-asset algorithmic trading across markets
+- [[2026-09-05_stock-exchange-cpp-nasdaq]] — Both are open-source trading platforms with multi-market support — StockSharp in C#, this in C++

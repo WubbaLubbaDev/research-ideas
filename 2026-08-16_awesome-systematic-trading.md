@@ -27,3 +27,4 @@ Use this curated list as a foundation to build an Indonesian-specific systematic
 - [[2026-08-15_luxalgo-mcp-server]] — both provide technical analysis resources for trading
 - [[2026-08-15_FinRL-X]] — both are systematic trading infrastructure projects
 - [[2026-08-22_multilevel-market-making-rl]] — Both involve systematic/algorithmic market making strategies
+- [[2026-09-05_quant-finance-collection]] — Both are curated resource collections for systematic/quant trading

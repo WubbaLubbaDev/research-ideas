@@ -20,3 +20,4 @@ Greenpeace Indonesia analysis. Points: not tracked (not an HN post). Referenced 
 - [[2026-08-15_indonesia-palm-oil-fires-ghg]] — Both highlight environmental damage from illegal/unregulated palm oil in Indonesia
 - [[2026-08-16_problem-with-palm-oil]] — Both address sustainability problems in the palm oil industry
 - [[2026-08-15_eudr-impact-argentina]] — Both involve deforestation regulation and enforcement for agricultural commodities
+- [[2026-09-05_tree-crop-mapping-deforestation]] — Both address deforestation monitoring — this via satellite tree crop mapping, the other via Greenpeace field analysis

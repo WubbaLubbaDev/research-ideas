@@ -22,3 +22,4 @@ Stars: 25. Created Aug 16, 2026 by Zproger. Self-hosted, free for personal use.
 - [[2026-08-16_projectionlab]] — Both are personal finance dashboards/simulators for self-hosted use
 
 - [[2026-08-29_8udget-offline-finance]] — Both are self-hosted/offline personal finance tools
+- [[2026-09-05_peek-ai-finance-coach]] — Both are personal finance tools with AI-driven analysis

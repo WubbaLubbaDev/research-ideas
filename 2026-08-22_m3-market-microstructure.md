@@ -19,3 +19,4 @@ Authors: Yanzhi Zhang, Yu Ma, Yilin Cheng, Jian Li, Yitong Duan. Published Aug 2
 ## Cross-links
 - [[2026-08-16_regime-gated-volatility]] — Both model market microstructure dynamics for predictive trading
 - [[2026-08-16_game-theoretic-stock-forecasting]] — Both model market participant interactions at the microstructure level
+- [[2026-09-05_spx-vix-calibration]] — Both model market microstructure dynamics — VIX calibration and state-event generative models

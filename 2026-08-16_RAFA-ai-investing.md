@@ -24,3 +24,4 @@ Build a multi-agent investment analysis tool for Indonesian retail investors whe
 - [[2026-08-16_Kai-ai-trading-wizard]] — both are AI-powered retail investing tools
 - [[2026-08-15_stock-trading-team-skill]] — both use specialized AI agents for investment analysis
 - [[2026-08-15_fere-ai-trading-signals]] — both use AI agents for trading signal generation
+- [[2026-09-05_zeiss-ai-finance-bot]] — Both use AI agents for trading — RAFA uses specialized agents, this uses ML + technical analysis

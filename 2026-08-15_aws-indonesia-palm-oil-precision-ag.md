@@ -25,3 +25,4 @@ Stars: 0 | Language: TypeScript | IoT-driven, block-level FFB yield prediction, 
 - [[2026-08-29_oil-palm-yolov8-detection]] — Both apply AI to palm oil precision agriculture in Indonesia
 - [[2026-08-29_chemiseed-tropical-agtech]] — Both focus on agronomic optimization for palm oil cultivation
 - [[2026-08-29_oil-palm-leaf-temperature-db]] — Both support precision agriculture for oil palm with data-driven approaches
+- [[2026-09-05_sawit-field-crm]] — Both involve field-level palm oil data collection — this for CRM/registration, the other for IoT yield prediction

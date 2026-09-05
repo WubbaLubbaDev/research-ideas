@@ -33,3 +33,4 @@ Build a lightweight version of this multi-agent framework for retail traders in 
 
 - [[2026-08-29_ai-hedge-fund]] — Both are multi-agent LLM trading frameworks with specialized agent roles
 - [[2026-08-29_Vibe-Trading]] — All three are academic-origin agentic trading frameworks
+- [[2026-09-05_marx-finance-ai-debate]] — Both use multi-agent frameworks for financial market analysis with specialized agent roles

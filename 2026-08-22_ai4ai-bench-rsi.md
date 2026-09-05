@@ -18,3 +18,4 @@ Authors: Yizhe Chi, Wenyi Li, Deyao Hong. Published Aug 20, 2026. Tests whether 
 
 ## Cross-links
 - [[2026-08-15_agentx-multi-agent-eval]] — Both benchmark AI agent capabilities — RSI design vs multi-agent eval
+- [[2026-09-05_bot-crossing-ai-game]] — Both test agent capabilities in novel ways — game-based evaluation vs algorithmic design benchmarking

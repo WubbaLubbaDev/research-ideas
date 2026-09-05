@@ -25,3 +25,4 @@ Points: 662 | Show HN. Open-source, self-hosted, based on the plain-text account
 
 - [[2026-08-29_lums-ai-budget]] — Both are open-source personal finance managers with AI features
 - [[2026-08-29_8udget-offline-finance]] — Both are offline-capable personal finance managers
+- [[2026-09-05_poka-ce-offline-finance]] — Both are open-source personal finance managers emphasizing privacy and local control

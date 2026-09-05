@@ -21,3 +21,4 @@ Stars: 63,008 | Language: Python | Last push: 2026-08-07 | License: MIT | Author
 - [[2026-08-16_marx-finance]] — Both use AI agents debating to produce financial decisions
 - [[2026-08-29_Vibe-Trading]] — Both are agentic finance repos with massive GitHub star growth in 2026
 - [[2026-08-29_nofx-ai-trading-kill-switch]] — Both are AI trading repos — ai-hedge-fund lacks the kill switch safety that NoFx prioritizes
+- [[2026-09-05_marx-finance-ai-debate]] — Both use multiple AI agents with different analytical perspectives for financial decisions

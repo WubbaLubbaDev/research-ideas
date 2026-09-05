@@ -18,3 +18,4 @@ Product Hunt Week of June 22, 2026. #12 on weekly leaderboard.
 
 ## Cross-links
 - [[2026-08-15_agentx-multi-agent-eval]] — Both evaluate/benchmark AI agents in competitive settings
+- [[2026-09-05_bot-crossing-ai-game]] — Both are environments for testing/evaluating AI agents — one via games, the other via competitive tasks

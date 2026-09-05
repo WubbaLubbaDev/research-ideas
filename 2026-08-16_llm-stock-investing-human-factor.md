@@ -25,3 +25,4 @@ Replicate this study for Indonesian stocks using local LLMs or multilingual mode
 - [[2026-08-15_llm-agent-trader]] — both evaluate LLM decision-making in stock trading
 - [[2026-08-15_strat-llm-trading]] — both study LLM autonomy levels in stock trading
 - [[2026-08-22_sentiment-qlora-benchmark]] — Both study whether LLM sentiment/prediction translates to profitable trading
+- [[2026-09-05_agentic-trading-survey]] — Both examine whether LLMs can effectively trade — survey covers the field, this paper tests specific models

@@ -20,3 +20,4 @@ Stars: 12,729 | Language: Python | Last push: 2026-08-20
 - [[2026-08-29_ai-hedge-fund]] — Both are AI trading repos — NoFx adds the kill switch safety that ai-hedge-fund lacks
 - [[2026-08-15_parallax-ai-agents-must-never-act]] — Both address the danger of autonomous agents acting without safety constraints
 - [[2026-08-29_safety-does-not-compose]] — NoFx's kill switch addresses the safety composition problem this paper identifies
+- [[2026-09-05_auto-stock-trading-ast]] — Both are AI trading assistants — NoFx adds the kill switch safety mechanism this project lacks

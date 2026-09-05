@@ -23,3 +23,4 @@ Authors: Stephan Rabanser, Sayash Kapoor, Arvind Narayanan et al. | Accepted at 
 - [[2026-08-22_pandora-model-routing]] — Both address efficiency and reliability in AI agent systems
 
 - [[2026-08-29_safety-does-not-compose]] — Both address agent reliability and safety as a science
+- [[2026-09-05_reverify-anti-hallucination]] — Both address agent reliability — reverify prevents hallucination, this paper proposes reliability metrics

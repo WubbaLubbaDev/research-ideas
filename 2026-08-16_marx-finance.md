@@ -25,3 +25,4 @@ Build an adversarial AI debate system for Indonesian market analysis where agent
 - [[2026-08-22_financeharness]] — Both use AI agents for autonomous financial market analysis
 
 - [[2026-08-29_ai-hedge-fund]] — Both use AI agents debating to produce financial decisions
+- [[2026-09-05_marx-finance-ai-debate]] — Same product — Marx Finance where AI agents debate the markets

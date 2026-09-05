@@ -20,3 +20,4 @@ Authors: Liyan Tang, Cyrus Rashtchian, Chun-Sung Ferng | Published: 2026-08-27 |
 - [[2026-08-29_scientific-agent-skills]] — Both build skill libraries for agents from accumulated experience
 - [[2026-08-29_investorskills]] — Both compile domain expertise into reusable agent skills
 - [[2026-08-22_unlazy-agent-skill]] — Both address agent skill development and evolution
+- [[2026-09-05_scientific-agent-skills]] — Both deal with compiling agent experience into reusable knowledge — skills vs wiki

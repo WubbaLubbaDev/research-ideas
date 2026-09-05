@@ -21,3 +21,4 @@ Authors: Ting Yan | Published: 2026-08-27 | arXiv: 2608.27443
 - [[2026-08-29_guard-cried-wolf]] — Both study the trade-off between safety constraints and agent utility
 - [[2026-08-29_ai-agent-safety-permissions]] — Both argue that permission-based safety is insufficient
 - [[2026-08-15_agent-safe-pipeline]] — Both implement policy/permission systems for agent safety
+- [[2026-09-05_openagentflow-safety-fleets]] — Both implement agent safety via policy boundaries — fleet-level vs user-authored permission policies

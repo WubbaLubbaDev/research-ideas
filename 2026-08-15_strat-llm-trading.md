@@ -23,3 +23,4 @@ Authors: Wenliang Huang, Zengyi Yu | Submitted: May 2026 | Accepted at IJCNN 202
 
 - [[2026-08-29_fides-llm-trading-strategies]] — Both concern LLM-based stock trading strategy generation and evaluation
 - [[2026-08-29_llm-trading-memory-benchmark]] — Both evaluate LLM-based trading strategy consistency
+- [[2026-09-05_agentic-trading-survey]] — Strat-LLM is one of the LLM trading systems this survey would analyze — stratified strategy alignment

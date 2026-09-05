@@ -23,3 +23,4 @@ Product Hunt launch. Positions agents as 'running like a company' with role-base
 - [[2026-08-29_deer-flow]] — Both manage multi-agent orchestration platforms
 - [[2026-08-29_a2acast-multi-computer-agents]] — Both enable multi-agent coordination across systems
 - [[2026-08-29_traccia-agent-control-plane]] — Both manage AI agents across frameworks from a central platform
+- [[2026-09-05_agentos-control-layer]] — Same product — AgentOS multi-agent management platform, found on both GitHub trending and Product Hunt

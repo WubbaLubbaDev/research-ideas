@@ -20,3 +20,4 @@ Points: 4 | Comments: 4 | Posted: 2026-08-28 | HN: https://news.ycombinator.com/
 - [[2026-08-15_agentx-multi-agent-eval]] — Both evaluate/test AI agents — Weir without LLMs, AgentX with multi-agent focus
 - [[2026-08-22_agentx-eval]] — Both are agent evaluation/testing frameworks
 - [[2026-08-29_compliant-llm-nist-airmf]] — Both are testing/auditing tools for AI agents
+- [[2026-09-05_reverify-anti-hallucination]] — Both test agent outputs deterministically — reverify verifies binary analysis, Weir tests without LLMs

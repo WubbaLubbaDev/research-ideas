@@ -20,3 +20,4 @@ Points: 11 | Comments: 4 | HN: https://news.ycombinator.com/item?id=44126670
 - [[2026-08-29_eu-ai-act-agent-scanner]] — Both are compliance scanning tools — one for NIST AI RMF, one for EU AI Act
 - [[2026-08-29_governed-pass-agent-certification]] — Both address agent compliance certification
 - [[2026-08-29_weir-agent-testing-no-llm]] — All three are agent testing/auditing tools
+- [[2026-09-05_auditmind-regulatory-agent]] — Both address AI compliance — AuditMind for regulatory compliance auditing, this for NIST AI RMF compliance

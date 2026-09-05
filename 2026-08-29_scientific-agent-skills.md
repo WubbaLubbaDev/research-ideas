@@ -20,3 +20,4 @@ Stars: 36,613 | Forks: 3,480 | Language: Python | 720 stars today | Built by K-D
 - [[2026-08-29_wikiskill-agent-knowledge]] — Both build skill libraries for agents — scientific-agent-skills for science, WikiSkill as a general framework
 - [[2026-08-29_investorskills]] — Same skill-pack pattern applied to different domains (science vs investing)
 - [[2026-08-15_2025-ai-agent-index]] — Both catalog agent capabilities — one as skills, one as safety/technical features
+- [[2026-09-05_scientific-agent-skills]] — Same repo — scientific agent skills library, now trending again with 100 new stars this week

@@ -30,3 +30,5 @@ Use this benchmark methodology to properly evaluate LLM trading agents on IDX da
 
 - [[2026-08-29_reading-not-using-ai-finance]] — Both evaluate LLM capabilities in financial decision-making beyond simple comprehension
 - [[2026-08-29_llm-trading-memory-benchmark]] — Both benchmark LLM agents in trading contexts
+- [[2026-09-05_stockbench-llm-trading]] — Both benchmark LLM trading agents on stock markets — same research question, different approaches
+- [[2026-09-05_agentic-trading-survey]] — The survey identifies reproducibility gaps that this benchmark paper also addresses

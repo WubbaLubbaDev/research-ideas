@@ -22,3 +22,4 @@ Stars: 1,460 | Language: Python | Created: 2026-05-27 | License: MIT | Org: ques
 - [[2026-08-29_wikiskill-agent-knowledge]] — Both compile agent experience into reusable skill knowledge
 
 - [[2026-08-29_scientific-agent-skills]] — Same skill-pack pattern applied to different domains (science vs investing)
+- [[2026-09-05_finance-skills-for-claude]] — Both package investing workflows as reusable skills for AI agents

@@ -23,3 +23,4 @@ Authors: Juhee Kim, Xiaoyuan Liu, Dawn Song et al. | Accepted at USENIX Security
 
 - [[2026-08-29_gitlost-agent-prompt-injection]] — Both cover attack vectors against AI agents — prompt injection and broader threats
 - [[2026-08-29_redevoagent-red-teaming]] — Both cover attack/defense for AI agents — RedEvoAgent as automated red team, this as comprehensive survey
+- [[2026-09-05_openagentflow-safety-fleets]] — Both address AI agent security — OpenAgentFlow for fleet safety, this surveys the full attack/defense landscape

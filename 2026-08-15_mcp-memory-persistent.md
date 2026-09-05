@@ -23,3 +23,4 @@ Stars: 146 | Language: Python | Uses SQLite FTS5 for full-text search. OKF-backe
 
 - [[2026-08-29_tradememory-protocol]] — Both provide persistent memory layers — one for agents generally, one for trading agents specifically
 - [[2026-08-29_codebase-memory-mcp]] — Both provide persistent memory for AI agents via MCP
+- [[2026-09-05_pensieve-company-context]] — Both deliver persistent memory/context to AI agents via MCP

@@ -19,3 +19,4 @@ Source: Product Hunt | Category: Finance, Personal Finance
 ## Cross-links
 - [[2026-08-16_peek-ai-finance]] — Both are AI personal finance coaches that surface actionable insights
 - [[2026-08-16_amigo-ai-finance]] — Both are AI-powered personal finance management tools
+- [[2026-09-05_peek-ai-finance-coach]] — Both are AI personal finance apps that surface actionable insights beyond tracking

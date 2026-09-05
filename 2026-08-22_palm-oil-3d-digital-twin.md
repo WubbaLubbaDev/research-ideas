@@ -21,3 +21,4 @@ Stars: 0. Created Aug 20, 2026 by JonathanParzival. 3D simulation + computer vis
 - [[2026-08-15_aws-indonesia-palm-oil-precision-ag]] — Both digitize palm oil production processes using sensors and CV
 
 - [[2026-08-29_oil-palm-leaf-temperature-db]] — Both provide data/models for digital representation of oil palm plants
+- [[2026-09-05_palmaraya-copilot-immersion]] — Both apply advanced technology to palm oil mill operations — Copilot for business workflows vs 3D digital twin for process simulation

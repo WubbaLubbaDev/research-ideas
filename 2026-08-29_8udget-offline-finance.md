@@ -20,3 +20,4 @@ Source: Product Hunt | Category: Finance, Budgeting
 - [[2026-08-15_paisa-personal-finance]] — Both are offline-capable personal finance managers
 - [[2026-08-22_aurum-finance-os]] — Both are self-hosted/offline personal finance tools
 - [[2026-08-29_stated-privacy-finance]] — Both prioritize privacy and local data in personal finance
+- [[2026-09-05_poka-ce-offline-finance]] — Both are offline-first personal finance apps — same privacy-first design pattern

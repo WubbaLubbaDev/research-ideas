@@ -25,3 +25,5 @@ Stars: 0 | Language: TypeScript | Targets Indonesia's 51M-tonne CPO industry. Us
 - [[2026-08-22_mondelez-cuts-suppliers]] — Both address corporate compliance with deforestation-free supply chain requirements
 
 - [[2026-08-29_geoai-oil-palm-benchmark]] — Both support EUDR compliance through improved oil palm mapping
+- [[2026-09-05_palmaraya-copilot-immersion]] — Both target Indonesian palm oil companies with technology solutions — Copilot immersion vs EUDR compliance system
+- [[2026-09-05_tree-crop-mapping-deforestation]] — Both address EUDR compliance — this paper reveals EUDR map misclassification, the other builds an EUDR compliance system

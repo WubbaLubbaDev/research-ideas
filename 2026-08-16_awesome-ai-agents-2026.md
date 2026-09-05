@@ -24,3 +24,4 @@ Build a similar curated catalog specifically for Indonesian-market AI agents —
 - [[2026-08-16_string-com-agent-builder]] — both catalog/build AI agent tools
 - [[2026-08-15_MasterAgent-on-device]] — both are agent infrastructure projects for 2026 deployment
 - [[2026-08-22_browsecomp-climbmix]] — Both relate to evaluating and cataloguing AI agent capabilities
+- [[2026-09-05_awesome-ai-agent-platforms]] — Both are curated awesome-lists of AI agents — this one focuses on platforms, the other on individual agents

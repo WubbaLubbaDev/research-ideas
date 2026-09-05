@@ -20,3 +20,5 @@ Authors: Soufiane El Amine El Alami et al. | Submitted: Nov 2025 | Cited by 18 |
 - [[2026-08-16_Stock-Prediction-Models]] — both survey ML/DL approaches for financial forecasting
 - [[2026-08-16_calibration-bets-quantization]] — both address ML model deployment in finance
 - [[2026-08-16_financial-models-notebooks]] — both cover computational finance methods
+- [[2026-09-05_quant-finance-collection]] — Both survey the landscape of ML applications in computational finance
+- [[2026-09-05_entropic-factor-model-portfolio]] — Both address portfolio optimization with ML — this paper uses entropic methods, the review surveys ML in finance broadly

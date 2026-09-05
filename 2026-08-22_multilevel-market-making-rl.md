@@ -20,3 +20,4 @@ Authors: Patrick Cheridito, Moritz Weiss. Published Aug 2026. Subjects: Trading 
 - [[2026-08-16_awesome-systematic-trading]] — Both involve systematic/algorithmic market making strategies
 
 - [[2026-08-29_agent-tacit-collusion]] — Both study algorithmic market behavior and its emergent properties
+- [[2026-09-05_stock-exchange-cpp-nasdaq]] — Both deal with market microstructure — this at the RL strategy level, the new one at the socket level

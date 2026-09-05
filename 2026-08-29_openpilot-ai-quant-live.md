@@ -20,3 +20,4 @@ Points: 1 | Comments: 2 | HN: https://news.ycombinator.com/item?id=47347022
 - [[2026-08-29_lumibot-ai-trading-agents]] — Both deploy AI trading agents with real broker integration
 - [[2026-08-15_llm-agent-trader]] — Both combine LLM agents with live trading
 - [[2026-08-22_autonomous-trading-system]] — Both are autonomous AI trading systems with real money
+- [[2026-09-05_auto-stock-trading-ast]] — Both are autonomous trading programs — one basic, one with live AI quant deployment

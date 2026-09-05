@@ -19,3 +19,4 @@ Stars: ~32,000 | Language: Python/TypeScript | Topics: mcp, code-analysis, ai-ag
 ## Cross-links
 - [[2026-08-15_mcp-memory-persistent]] — Both provide persistent memory for AI agents via MCP
 - [[2026-08-29_tradememory-protocol]] — Both implement memory protocols — one for codebases, one for trading
+- [[2026-09-05_pensieve-company-context]] — Both provide persistent context to AI agents — Pensieve for company context, this for codebase memory

@@ -21,3 +21,4 @@ Product Hunt 2026 award winner. Category: Stock trading platforms, Investing.
 
 - [[2026-08-29_OpenAlice]] — Both unify trading across multiple brokers/asset classes
 - [[2026-08-29_co-invest-chat-to-trade]] — Both reduce friction in the research-to-trade workflow
+- [[2026-09-05_stonkjournal-trading-journal]] — Both serve active traders needing better tooling beyond broker-native apps

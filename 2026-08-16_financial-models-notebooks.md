@@ -26,3 +26,4 @@ Use these notebooks as the foundation for a quant finance course or toolkit adap
 - [[2026-08-16_calibration-bets-quantization]] — both involve numerical methods for financial modeling
 - [[2026-08-15_stop-using-excel-finance]] — both address alternatives to Excel for financial modeling
 - [[2026-08-15_ml-computational-finance-review]] — both cover computational finance methods
+- [[2026-09-05_quant-finance-collection]] — Both are collections of quantitative finance implementations and resources

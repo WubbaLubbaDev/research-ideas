@@ -26,3 +26,4 @@ Stars: 3 | Language: Python | 41 tools filtered to what your broker can serve. H
 
 - [[2026-08-29_quantdinger]] — Both integrate MCP servers for connecting AI agents to trading tools
 - [[2026-08-29_open-finance-mcp]] — Both use MCP to connect financial data to AI agents
+- [[2026-09-05_finance-skills-for-claude]] — Both package financial capabilities as composable tools for AI agents

@@ -22,3 +22,4 @@ Product Hunt listing. 220 followers. Positions itself as building agents that 'w
 
 - [[2026-08-29_hermes-agent]] — Both are platforms for building and deploying real working agents
 - [[2026-08-29_traccia-agent-control-plane]] — Both are agent management/orchestration platforms
+- [[2026-09-05_agentos-control-layer]] — Both are AI agent platforms for building and deploying agents in production
